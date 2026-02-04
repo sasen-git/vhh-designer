@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (large)
+*.npz
+*.pkl
+*.pickle
+*.h5
+
+# Output directories
+runs/
+results/
+outputs/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sensitive
+*.env
+secrets.json
+
+# Large model files
+*.pt
+*.pth
+models/
+
+# Temporary
+tmp/
+*.tmp
+
+# Excel temp files
+~$*.xlsx
