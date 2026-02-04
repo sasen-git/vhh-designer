@@ -1,6 +1,6 @@
 > **VHH_DESIGNER_ULTIMATE_GUIDE — Lightweight pointer**
 >
-> This document describes the technical architecture of VHH Designer.**For design philosophy, safeguards, and scope, see the project README**.
+> This document describes the technical architecture of VHH Designer. **For design philosophy, safeguards, and scope, see the project [README](https://github.com/sasen-git/vhh-designer/tree/main#))**.
 
 ---
 
