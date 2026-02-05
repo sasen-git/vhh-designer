@@ -1,6 +1,7 @@
 # VHH-Designer
 
-**Antibody-to-nanobody conversion using statistical patterns from 12M camelid sequences**
+**A constrained, evaluation-driven framework for antibody-to-nanobody conversion**
+Strategy & system design by Sasen Efrem; implementation developed with Claude
 
 ![Version](https://img.shields.io/badge/version-9.1-blue)
 ![Python](https://img.shields.io/badge/python-3.8+-green)
@@ -8,9 +9,41 @@
 
 ## Overview
 
-VHH-Designer converts conventional antibodies (VH) into camelid-like single-domain antibodies (VHH/nanobodies) by intelligently mutating framework residues while preserving CDR binding loops.
+VHH-Designer is a research framework for converting conventional antibodies (VH) into camelid-like single-domain antibodies (VHH/nanobodies) using **statistical patterns** derived from large-scale natural repertoires (approximately 12 million sequences that were manually compiled).
 
-The tool uses statistical patterns learned from ~12 million natural camelid VHH sequences to guide the conversion, ensuring the resulting nanobodies are structurally sound and evolutionarily plausible.
+Rather than unconstrained sequence generation, the system emphasizes **disciplined exploration**: selectively mutating framework residues while preserving CDR binding loops, enforcing biological invariants, and evaluating outcomes through staged control tracks.
+
+Design decisions throughout the system prioritize interpretability, traceability, and bounded optimization, ensuring that generated candidates remain evolutionarily plausible and biologically coherent.
+
+## Design Philosophy: Safety, Constraints, and Discernment
+
+VHH-Designer was intentionally built with explicit constraints, staged exploration, and built-in evaluation checkpoints to prevent uncontrolled or abberant optimization.
+
+Instead of maximizing generative breadth, the framework prioritizes:
+
+- Bounded exploration over brute-force generation
+- Progressive capability evaluation rather than end-to-end optimization
+- Early surfacing of failure modes through explicit controls and preservation of biological invariants
+  - I.e. Controls in Track 0 1. Controls define the minimum viable perturbation. Track 0 asks:
+  -     If I change almost nothing, does the system still behave coherently?
+  - This question is important because:
+      - If small changes already cause instability, the system is fragile
+      - If small changes produce large, unexplained effects, assumptions are wrong
+      - If controls fail, optimization is meaningless
+  - As such, controls and slowly-evolving tracks allow for early surfacing of what might have break the system
+- Key architectural choices—such as immutable control tracks, scaffold-specific exclusion rules, and hallmark-aware mutation logic—were chosen to avoid overgeneralization and to distinguish genuine biological signal from statistical coincidence.
+
+The goal is not autonomous design, but legible, stress-tested scientific exploration that supports downstream human judgment and validation.
+
+## Scope and Non-Goals
+
+This framework intentionally avoids:
+
+- Fully autonomous or end-to-end optimization without intermediate evaluation
+- Direct synthesis or deployment recommendations
+- Inference of biological activity beyond structural and statistical plausibility
+
+Generated sequences are not intended for experimental use without *independent review and validation*. Design constraints are chosen conservatively to limit extrapolation beyond observed biological distributions
 
 ## Key Features
 
@@ -124,10 +157,16 @@ See [DEVELOPMENT_LOG.md](DEVELOPMENT_LOG.md) for the full journey.
 - [DEVELOPMENT_LOG.md](DEVELOPMENT_LOG.md) - Project evolution and key discoveries
 - [docs/VHH_DESIGNER_ULTIMATE_GUIDE.md](docs/VHH_DESIGNER_ULTIMATE_GUIDE.md) - Complete technical reference
 
-## License
+
+
+Authorship & Attribution
+
+Scientific strategy, system design, and evaluation framework: Sasen Efrem
+
+Implementation and iterative development: Claude (LLM-assisted coding)
+
+This project reflects a collaborative workflow in which human scientific judgment defined constraints, safeguards, and evaluation logic, with AI used as an implementation accelerator rather than an autonomous designer.
+
+License
 
 MIT
-
-## Author
-
-Developed as part of antibody engineering research, 2025-2026.
