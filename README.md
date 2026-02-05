@@ -25,7 +25,7 @@ Instead of maximizing generative breadth, the framework prioritizes:
 - Progressive capability evaluation rather than end-to-end optimization
 - Early surfacing of failure modes through explicit controls and preservation of biological invariants
   - I.e. Controls in Track 0 1. Controls define the minimum viable perturbation. Track 0 asks:
-  -     If I change almost nothing, does the system still behave coherently?
+    - If I change almost nothing, does the system still behave coherently?
   - This question is important because:
       - If small changes already cause instability, the system is fragile
       - If small changes produce large, unexplained effects, assumptions are wrong
