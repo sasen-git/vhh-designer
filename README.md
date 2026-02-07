@@ -25,6 +25,8 @@ Copy
 
 Conventional antibodies are large (~150 kDa), multi-chain molecules that require mammalian expression systems, cold-chain storage, and cannot reach many drug targets buried in protein cavities. Nanobodies solve these problems across the board:
 
+![VHH-vs-ab](docs/ab-vs-nanobody.png)
+
 - **Small size (~15 kDa)** — penetrate dense tissues like solid tumors far more effectively, can cross blood-brain barrier, and clear rapidly from circulation, making them ideal for imaging and diagnostics
 - **Cryptic epitope access** — reach enzyme active sites, GPCR clefts, and viral canyon regions that conventional antibodies simply cannot
 - **Exceptional stability** — often retain function after heating to 60–80°C or exposure to harsh pH conditions
@@ -43,6 +45,7 @@ The vast majority of validated, high-affinity binding sequences originate as con
 
 VHH Designer takes a data-driven approach: it learns which framework mutations naturally accompany specific CDR features across **12 million real camelid sequences**, then applies **hallmark-specific vernier consensus patterns** to convert a conventional VH into a stable nanobody scaffold—while leaving the CDRs, and thus binding specificity, untouched. This makes VH→VHH conversion **systematic, reproducible, and accessible** to any lab.
 
+![VHH](docs/VHH.png)
 
 ## Design Philosophy: Safety, Constraints, and Discernment
 
