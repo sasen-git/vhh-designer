@@ -16,7 +16,7 @@
 | **Major Versions** | 9 (v1 → v9) |
 | **Key Insight** | CDR-framework coupling is hallmark-specific |
 
-![Summary Statistics](docs/summary_stats.png)
+![VHH Database Figure](docs/vhh_database_figure.png)
 
 ---
 
@@ -30,6 +30,8 @@
 
 ### Goal
 Find existing human antibodies with similar CDR3 to use as humanization templates.
+
+For this, I used a system called [KA-Search](https://www.nature.com/articles/s41598-023-38108-7). However, I ended up finding this platform too restrictive.
 
 ### Key Scripts
 | Script | Lines | Purpose |
@@ -45,7 +47,7 @@ Find existing human antibodies with similar CDR3 to use as humanization template
 - ❌ Metadata fetching timeouts → Disabled by default
 
 ### Insight
-> *"Finding similar sequences doesn't solve the conversion problem—I need to understand WHY certain framework mutations accompany certain CDRs."*
+> *"KA-Search could find similar sequences, but was constrained by fixed retrieval caps and truncated alignments. More fundamentally, similarity alone doesn't explain why certain framework mutations accompany certain CDRs—I decided understanding those rules required building a dedicated analysis of my own database, 12 million natural VHH sequences that I manually ensured were cleaned up and identically processed."*
 
 ---
 
@@ -133,7 +135,9 @@ Classify VHH families and extract family-specific rules.
 ## Phase 5: Designer v7 Series (Jan 5 - Jan 20, 2026)
 
 ### Goal
-Build the first generation-capable VHH designer.
+Build the first generation-capable VHH designer. Now that I had some insights about how CDRs relate to frameworks (eg Hallmarks), I wanted to explore whether I could build a VHH from an antibody using the CDRs alone.
+
+![VHH-Designer](docs/VHH-designer.png)
 
 ### Evolution
 | Version | Lines | Key Addition |
