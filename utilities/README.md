@@ -8,11 +8,11 @@ pull_cdrs.py         ← Extract CDRs from sequences
 paths.py             ← Common path configurations
 ```
 
-## From your KA-Search directory:
+## From your vhh-designer directory:
 
 ```bash
-cp ~/KA-Search/dna_to_protein_translator.py ./dna_translator.py
-cp ~/KA-Search/pull_cdrs.py ./pull_cdrs.py
+cp ~/vhh-designer/dna_to_protein_translator.py ./dna_translator.py
+cp ~/vhh-designer/pull_cdrs.py ./pull_cdrs.py
 ```
 
 Helper utilities for sequence processing.
