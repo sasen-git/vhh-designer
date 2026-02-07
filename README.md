@@ -25,7 +25,7 @@ Copy
 
 Conventional antibodies are large (~150 kDa), multi-chain molecules that require mammalian expression systems, cold-chain storage, and cannot reach many drug targets buried in protein cavities. Nanobodies solve these problems across the board:
 
-- **Small size (~15 kDa)** — penetrate dense tissues like solid tumors far more effectively, and clear rapidly from circulation, making them ideal for imaging and diagnostics
+- **Small size (~15 kDa)** — penetrate dense tissues like solid tumors far more effectively, can cross blood-brain barrier, and clear rapidly from circulation, making them ideal for imaging and diagnostics
 - **Cryptic epitope access** — reach enzyme active sites, GPCR clefts, and viral canyon regions that conventional antibodies simply cannot
 - **Exceptional stability** — often retain function after heating to 60–80°C or exposure to harsh pH conditions
 - **Simple, cheap production** — single-domain architecture enables expression at scale in bacterial or yeast systems at a fraction of conventional antibody manufacturing costs
