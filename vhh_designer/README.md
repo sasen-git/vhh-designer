@@ -6,10 +6,10 @@
 designer.py     ← Copy from: vhh_designer_v9_1.py (rename to designer.py)
 ```
 
-## From your KA-Search directory:
+## From your Vhh-designer directory:
 
 ```bash
-cp ~/KA-Search/vhh_designer_v9_1.py ./designer.py
+cp ~/vhh-designer/vhh_designer_v9_1.py ./designer.py
 ```
 
 This is the main product - the 7,664 line v9.1 designer with:
