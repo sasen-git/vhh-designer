@@ -16,13 +16,13 @@
 | **Major Versions** | 9 (v1 → v9) |
 | **Key Insight** | CDR-framework coupling is hallmark-specific |
 
-![Summary Statistics](summary_stats.png)
+![Summary Statistics](docs/summary_stats.png)
 
 ---
 
 ## Timeline Overview
 
-![Development Timeline](timeline.png)
+![Development Timeline](docs/timeline.png)
 
 ---
 
@@ -256,13 +256,13 @@ AntPack → IMGT labels → Simplified → IMGT + simplified
 
 ## Lines of Code Growth
 
-![Lines of Code Growth](loc_growth.png)
+![Lines of Code Growth](docs/loc_growth.png)
 
 ---
 
 ## System Architecture
 
-![VHH Designer Architecture](architecture.png)
+![VHH Designer Architecture](docs/architecture.png)
 
 ---
 
