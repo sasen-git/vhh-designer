@@ -12,9 +12,37 @@ Strategy & system design by Sasen Efrem; implementation developed with Claude
 
 VHH-Designer is a research framework for converting conventional antibodies (VH) into camelid-like single-domain antibodies (VHH/nanobodies) using **statistical patterns** derived from large-scale natural repertoires (approximately 12 million sequences that were manually compiled).
 
+![VHH-Designer](docs/VHH-designer.png)
+
 Rather than unconstrained sequence generation, the system emphasizes **disciplined exploration**: selectively mutating framework residues while preserving CDR binding loops, enforcing biological invariants, and evaluating outcomes through staged control tracks.
 
 Design decisions throughout the system prioritize interpretability, traceability, and bounded optimization, ensuring that generated candidates remain evolutionarily plausible and biologically coherent.
+
+Readme blurb · MD
+Copy
+
+## Why VHH's (Nanobodies)?
+
+Conventional antibodies are large (~150 kDa), multi-chain molecules that require mammalian expression systems, cold-chain storage, and cannot reach many drug targets buried in protein cavities. Nanobodies solve these problems across the board:
+
+- **Small size (~15 kDa)** — penetrate dense tissues like solid tumors far more effectively, and clear rapidly from circulation, making them ideal for imaging and diagnostics
+- **Cryptic epitope access** — reach enzyme active sites, GPCR clefts, and viral canyon regions that conventional antibodies simply cannot
+- **Exceptional stability** — often retain function after heating to 60–80°C or exposure to harsh pH conditions
+- **Simple, cheap production** — single-domain architecture enables expression at scale in bacterial or yeast systems at a fraction of conventional antibody manufacturing costs
+- **Modular engineering** — simple genetic format makes them trivial to build into multivalent constructs, bispecifics, or fusions with enzymes, toxins, or half-life extension domains
+
+## The Problem
+
+The vast majority of validated, high-affinity binding sequences originate as conventional VH/VL antibodies from decades of hybridoma and phage display campaigns. Reformatting these into nanobodies has traditionally been:
+
+- **Manual and expert-driven** — requiring structural intuition about which framework residues to mutate
+- **Limited to generic rules** — a handful of "universal" substitutions that ignore the diversity of natural VHH scaffolds
+- **Inaccessible** — effectively restricted to labs with deep structural biology expertise
+
+## What VHH Designer Does
+
+VHH Designer takes a data-driven approach: it learns which framework mutations naturally accompany specific CDR features across **12 million real camelid sequences**, then applies **hallmark-specific vernier consensus patterns** to convert a conventional VH into a stable nanobody scaffold—while leaving the CDRs, and thus binding specificity, untouched. This makes VH→VHH conversion **systematic, reproducible, and accessible** to any lab.
+
 
 ## Design Philosophy: Safety, Constraints, and Discernment
 
