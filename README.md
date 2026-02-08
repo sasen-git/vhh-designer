@@ -35,11 +35,14 @@ Conventional antibodies are large (~150 kDa), multi-chain molecules that require
 
 ## The Problem
 
-The vast majority of validated, high-affinity binding sequences originate as conventional VH/VL antibodies from decades of hybridoma and phage display campaigns. Reformatting these into nanobodies has traditionally been:
+Nanobodies occur naturally in camelid species (llamas, alpacas, camels) as part of heavy-chain-only antibodies (HCAbs) — antibodies that lack a light chain entirely. This is what makes them special: evolution has already solved the problem of creating stable, functional single-domain binders. The standard route to nanobody discovery involves immunizing a camelid, building a phage display library from its HCAb repertoire, and panning for binders — a process that yields nanobodies already optimized for solo stability.
 
-- **Manual and expert-driven** — requiring structural intuition about which framework residues to mutate
-- **Limited to generic rules** — a handful of "universal" substitutions that ignore the diversity of natural VHH scaffolds
-- **Inaccessible** — effectively restricted to labs with deep structural biology expertise
+But what if your best binder came from a conventional IgG campaign — a mouse hybridoma, a human phage library, or a clinical-stage antibody? **Converting a conventional VH into a nanobody format is a fundamentally harder problem, because that VH was never meant to work alone.** It evolved to pair with a light chain: the VL buries ~800 Å² of hydrophobic surface on the VH framework, and removing it exposes residues that cause aggregation, misfolding, and loss of function. Historically, VH→VHH conversion has been:
+
+- **Manual and expert-driven** — requiring case-by-case structural analysis to identify which framework residues to mutate, often guided by a single researcher's intuition
+- **Limited to generic rules** — a handful of "universal" hallmark substitutions (e.g. V42F, G49E) applied identically regardless of CDR context, ignoring the diversity of natural VHH scaffolds
+- **High failure rate** — most attempts produce insoluble or non-functional variants, with no systematic way to predict which mutations will rescue stability
+- **Inaccessible** — effectively restricted to a small number of labs with deep structural biology expertise and camelid immunization infrastructure
 
 ## What VHH Designer Does
 
