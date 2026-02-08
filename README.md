@@ -45,7 +45,7 @@ The vast majority of validated, high-affinity binding sequences originate as con
 
 VHH Designer takes a data-driven approach: it learns which framework mutations naturally accompany specific CDR features across **12 million real camelid sequences**, then applies **hallmark-specific vernier consensus patterns** to convert a conventional VH into a stable nanobody scaffold—while leaving the CDRs, and thus binding specificity, untouched. This makes VH→VHH conversion **systematic, reproducible, and accessible** to any lab.
 
-![VHH](docs/VHH.png)
+![VHH](docs/VHH.jpg)
 
 ## Design Philosophy: Safety, Constraints, and Discernment
 
