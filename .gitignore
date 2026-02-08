@@ -72,3 +72,6 @@ reorganize_and_commit.sh
 !models/correlations/**/*.json
 !models/*.json
 !data/VHH_DATABASE_CONSOLIDATION_README.md
+!models/analysis/**/*.json
+!models/analysis/**/*.json
+models/analysis/**/analysis_vernier_clusters_v7.json

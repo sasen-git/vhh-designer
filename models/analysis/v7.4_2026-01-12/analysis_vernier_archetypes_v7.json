@@ -1,0 +1,432 @@
+[
+  {
+    "family": "other",
+    "count": 2206590,
+    "positions": {
+      "IMGT42": {
+        "consensus": "F",
+        "frequency": 0.6009,
+        "support": 2206556
+      },
+      "IMGT49": {
+        "consensus": "E",
+        "frequency": 0.2919,
+        "support": 2206556
+      },
+      "IMGT50": {
+        "consensus": "R",
+        "frequency": 0.6707,
+        "support": 2206556
+      },
+      "IMGT52": {
+        "consensus": "G",
+        "frequency": 0.4637,
+        "support": 2206554
+      },
+      "IMGT66": {
+        "consensus": "Y",
+        "frequency": 0.2903,
+        "support": 2205391
+      },
+      "IMGT67": {
+        "consensus": "Y",
+        "frequency": 0.9078,
+        "support": 2205962
+      },
+      "IMGT68": {
+        "consensus": "A",
+        "frequency": 0.632,
+        "support": 2205913
+      },
+      "IMGT69": {
+        "consensus": "D",
+        "frequency": 0.8031,
+        "support": 2205754
+      },
+      "IMGT71": {
+        "consensus": "V",
+        "frequency": 0.8832,
+        "support": 2205807
+      },
+      "IMGT76": {
+        "consensus": "F",
+        "frequency": 0.9582,
+        "support": 2206502
+      },
+      "IMGT78": {
+        "consensus": "I",
+        "frequency": 0.8193,
+        "support": 2206345
+      },
+      "IMGT82": {
+        "consensus": "N",
+        "frequency": 0.7115,
+        "support": 2196097
+      },
+      "IMGT87": {
+        "consensus": "V",
+        "frequency": 0.605,
+        "support": 2205789
+      },
+      "IMGT89": {
+        "consensus": "L",
+        "frequency": 0.9768,
+        "support": 2206426
+      },
+      "IMGT91": {
+        "consensus": "M",
+        "frequency": 0.9046,
+        "support": 2206440
+      },
+      "IMGT94": {
+        "consensus": "L",
+        "frequency": 0.9558,
+        "support": 2206477
+      }
+    }
+  },
+  {
+    "family": "F_C2",
+    "count": 5632330,
+    "positions": {
+      "IMGT42": {
+        "consensus": "F",
+        "frequency": 1.0,
+        "support": 5632330
+      },
+      "IMGT49": {
+        "consensus": "E",
+        "frequency": 1.0,
+        "support": 5632330
+      },
+      "IMGT50": {
+        "consensus": "R",
+        "frequency": 1.0,
+        "support": 5632330
+      },
+      "IMGT52": {
+        "consensus": "G",
+        "frequency": 0.6148,
+        "support": 5632328
+      },
+      "IMGT66": {
+        "consensus": "Y",
+        "frequency": 0.3341,
+        "support": 5626813
+      },
+      "IMGT67": {
+        "consensus": "Y",
+        "frequency": 0.899,
+        "support": 5630520
+      },
+      "IMGT68": {
+        "consensus": "A",
+        "frequency": 0.6865,
+        "support": 5631198
+      },
+      "IMGT69": {
+        "consensus": "D",
+        "frequency": 0.847,
+        "support": 5631322
+      },
+      "IMGT71": {
+        "consensus": "V",
+        "frequency": 0.9013,
+        "support": 5630751
+      },
+      "IMGT76": {
+        "consensus": "F",
+        "frequency": 0.9701,
+        "support": 5632201
+      },
+      "IMGT78": {
+        "consensus": "I",
+        "frequency": 0.812,
+        "support": 5632021
+      },
+      "IMGT82": {
+        "consensus": "N",
+        "frequency": 0.7501,
+        "support": 5612619
+      },
+      "IMGT87": {
+        "consensus": "V",
+        "frequency": 0.7142,
+        "support": 5630255
+      },
+      "IMGT89": {
+        "consensus": "L",
+        "frequency": 0.9766,
+        "support": 5632085
+      },
+      "IMGT91": {
+        "consensus": "M",
+        "frequency": 0.9133,
+        "support": 5632059
+      },
+      "IMGT94": {
+        "consensus": "L",
+        "frequency": 0.9621,
+        "support": 5632117
+      }
+    }
+  },
+  {
+    "family": "Y_like",
+    "count": 1979871,
+    "positions": {
+      "IMGT42": {
+        "consensus": "Y",
+        "frequency": 1.0,
+        "support": 1979871
+      },
+      "IMGT49": {
+        "consensus": "Q",
+        "frequency": 0.6161,
+        "support": 1979871
+      },
+      "IMGT50": {
+        "consensus": "R",
+        "frequency": 0.9191,
+        "support": 1979871
+      },
+      "IMGT52": {
+        "consensus": "L",
+        "frequency": 0.7442,
+        "support": 1979871
+      },
+      "IMGT66": {
+        "consensus": "N",
+        "frequency": 0.505,
+        "support": 1979364
+      },
+      "IMGT67": {
+        "consensus": "Y",
+        "frequency": 0.9511,
+        "support": 1979484
+      },
+      "IMGT68": {
+        "consensus": "A",
+        "frequency": 0.8073,
+        "support": 1979688
+      },
+      "IMGT69": {
+        "consensus": "D",
+        "frequency": 0.867,
+        "support": 1979510
+      },
+      "IMGT71": {
+        "consensus": "V",
+        "frequency": 0.9215,
+        "support": 1978914
+      },
+      "IMGT76": {
+        "consensus": "F",
+        "frequency": 0.9712,
+        "support": 1979829
+      },
+      "IMGT78": {
+        "consensus": "I",
+        "frequency": 0.9172,
+        "support": 1979817
+      },
+      "IMGT82": {
+        "consensus": "N",
+        "frequency": 0.8267,
+        "support": 1974023
+      },
+      "IMGT87": {
+        "consensus": "V",
+        "frequency": 0.7217,
+        "support": 1979313
+      },
+      "IMGT89": {
+        "consensus": "L",
+        "frequency": 0.9799,
+        "support": 1979610
+      },
+      "IMGT91": {
+        "consensus": "M",
+        "frequency": 0.955,
+        "support": 1979794
+      },
+      "IMGT94": {
+        "consensus": "L",
+        "frequency": 0.9698,
+        "support": 1979810
+      }
+    }
+  },
+  {
+    "family": "VH_like",
+    "count": 1514246,
+    "positions": {
+      "IMGT42": {
+        "consensus": "V",
+        "frequency": 1.0,
+        "support": 1514246
+      },
+      "IMGT49": {
+        "consensus": "G",
+        "frequency": 1.0,
+        "support": 1514246
+      },
+      "IMGT50": {
+        "consensus": "L",
+        "frequency": 0.8528,
+        "support": 1514246
+      },
+      "IMGT52": {
+        "consensus": "W",
+        "frequency": 0.9451,
+        "support": 1514246
+      },
+      "IMGT66": {
+        "consensus": "Y",
+        "frequency": 0.5908,
+        "support": 1513868
+      },
+      "IMGT67": {
+        "consensus": "Y",
+        "frequency": 0.9374,
+        "support": 1514035
+      },
+      "IMGT68": {
+        "consensus": "A",
+        "frequency": 0.7722,
+        "support": 1513973
+      },
+      "IMGT69": {
+        "consensus": "D",
+        "frequency": 0.8254,
+        "support": 1513969
+      },
+      "IMGT71": {
+        "consensus": "V",
+        "frequency": 0.8761,
+        "support": 1514017
+      },
+      "IMGT76": {
+        "consensus": "F",
+        "frequency": 0.9644,
+        "support": 1514213
+      },
+      "IMGT78": {
+        "consensus": "I",
+        "frequency": 0.8823,
+        "support": 1514197
+      },
+      "IMGT82": {
+        "consensus": "N",
+        "frequency": 0.8875,
+        "support": 1512627
+      },
+      "IMGT87": {
+        "consensus": "L",
+        "frequency": 0.5584,
+        "support": 1513567
+      },
+      "IMGT89": {
+        "consensus": "L",
+        "frequency": 0.9795,
+        "support": 1514195
+      },
+      "IMGT91": {
+        "consensus": "M",
+        "frequency": 0.8551,
+        "support": 1514195
+      },
+      "IMGT94": {
+        "consensus": "L",
+        "frequency": 0.9642,
+        "support": 1514206
+      }
+    }
+  },
+  {
+    "family": "unknown",
+    "count": 17594,
+    "positions": {
+      "IMGT42": {
+        "consensus": "F",
+        "frequency": 0.7298,
+        "support": 17100
+      },
+      "IMGT49": {
+        "consensus": "G",
+        "frequency": 0.3062,
+        "support": 10826
+      },
+      "IMGT50": {
+        "consensus": "R",
+        "frequency": 0.4592,
+        "support": 8311
+      },
+      "IMGT52": {
+        "consensus": "G",
+        "frequency": 0.3925,
+        "support": 10662
+      },
+      "IMGT66": {
+        "consensus": "N",
+        "frequency": 0.2571,
+        "support": 17485
+      },
+      "IMGT67": {
+        "consensus": "Y",
+        "frequency": 0.7351,
+        "support": 17505
+      },
+      "IMGT68": {
+        "consensus": "A",
+        "frequency": 0.5849,
+        "support": 17579
+      },
+      "IMGT69": {
+        "consensus": "D",
+        "frequency": 0.7782,
+        "support": 17581
+      },
+      "IMGT71": {
+        "consensus": "V",
+        "frequency": 0.8979,
+        "support": 17582
+      },
+      "IMGT76": {
+        "consensus": "F",
+        "frequency": 0.9567,
+        "support": 17594
+      },
+      "IMGT78": {
+        "consensus": "I",
+        "frequency": 0.8113,
+        "support": 17594
+      },
+      "IMGT82": {
+        "consensus": "N",
+        "frequency": 0.5943,
+        "support": 17362
+      },
+      "IMGT87": {
+        "consensus": "V",
+        "frequency": 0.5695,
+        "support": 17582
+      },
+      "IMGT89": {
+        "consensus": "L",
+        "frequency": 0.9838,
+        "support": 17594
+      },
+      "IMGT91": {
+        "consensus": "M",
+        "frequency": 0.9067,
+        "support": 17593
+      },
+      "IMGT94": {
+        "consensus": "L",
+        "frequency": 0.956,
+        "support": 17594
+      }
+    }
+  }
+]

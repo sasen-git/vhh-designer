@@ -1,0 +1,2102 @@
+[
+  {
+    "baseline_prob": 0.718,
+    "condition": "cdr3[-1]=Y",
+    "confidence": 0.832,
+    "lift": 1.16,
+    "position": "IMGT80",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "D",
+    "support": 29868
+  },
+  {
+    "baseline_prob": 0.69,
+    "condition": "cdr3[-1]=Y",
+    "confidence": 0.83,
+    "lift": 1.2,
+    "position": "IMGT76",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "T",
+    "support": 29812
+  },
+  {
+    "baseline_prob": 0.69,
+    "condition": "cdr3[-2]=D",
+    "confidence": 0.842,
+    "lift": 1.22,
+    "position": "IMGT76",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "T",
+    "support": 29219
+  },
+  {
+    "baseline_prob": 0.672,
+    "condition": "cdr3[-1]=Y",
+    "confidence": 0.797,
+    "lift": 1.19,
+    "position": "IMGT82",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "A",
+    "support": 28608
+  },
+  {
+    "baseline_prob": 0.683,
+    "condition": "cdr3[-1]=Y",
+    "confidence": 0.795,
+    "lift": 1.16,
+    "position": "IMGT77",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "I",
+    "support": 28556
+  },
+  {
+    "baseline_prob": 0.675,
+    "condition": "cdr3[-1]=Y",
+    "confidence": 0.782,
+    "lift": 1.16,
+    "position": "IMGT68",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "A",
+    "support": 28070
+  },
+  {
+    "baseline_prob": 0.683,
+    "condition": "cdr3[-2]=D",
+    "confidence": 0.793,
+    "lift": 1.16,
+    "position": "IMGT77",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "I",
+    "support": 27508
+  },
+  {
+    "baseline_prob": 0.658,
+    "condition": "cdr3[-1]=Y",
+    "confidence": 0.766,
+    "lift": 1.16,
+    "position": "IMGT81",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "N",
+    "support": 27487
+  },
+  {
+    "baseline_prob": 0.675,
+    "condition": "cdr3[-2]=D",
+    "confidence": 0.786,
+    "lift": 1.16,
+    "position": "IMGT68",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "A",
+    "support": 27282
+  },
+  {
+    "baseline_prob": 0.672,
+    "condition": "cdr3_charge=neutral",
+    "confidence": 0.776,
+    "lift": 1.15,
+    "position": "IMGT82",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "A",
+    "support": 26942
+  },
+  {
+    "baseline_prob": 0.69,
+    "condition": "cdr3_cys=no_cys",
+    "confidence": 0.835,
+    "lift": 1.21,
+    "position": "IMGT76",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "T",
+    "support": 25619
+  },
+  {
+    "baseline_prob": 0.718,
+    "condition": "cdr3_cys=no_cys",
+    "confidence": 0.828,
+    "lift": 1.15,
+    "position": "IMGT80",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "D",
+    "support": 25418
+  },
+  {
+    "baseline_prob": 0.683,
+    "condition": "cdr3_cys=no_cys",
+    "confidence": 0.803,
+    "lift": 1.18,
+    "position": "IMGT77",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "I",
+    "support": 24654
+  },
+  {
+    "baseline_prob": 0.672,
+    "condition": "cdr3_cys=no_cys",
+    "confidence": 0.802,
+    "lift": 1.19,
+    "position": "IMGT82",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "A",
+    "support": 24615
+  },
+  {
+    "baseline_prob": 0.658,
+    "condition": "cdr3_cys=no_cys",
+    "confidence": 0.801,
+    "lift": 1.22,
+    "position": "IMGT81",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "N",
+    "support": 24577
+  },
+  {
+    "baseline_prob": 0.675,
+    "condition": "cdr3_cys=no_cys",
+    "confidence": 0.784,
+    "lift": 1.16,
+    "position": "IMGT68",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "A",
+    "support": 24063
+  },
+  {
+    "baseline_prob": 0.693,
+    "condition": "cdr3_len=long",
+    "confidence": 0.907,
+    "lift": 1.31,
+    "position": "IMGT50",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "R",
+    "support": 22919
+  },
+  {
+    "baseline_prob": 0.785,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.951,
+    "lift": 1.21,
+    "position": "IMGT74",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "R",
+    "support": 22617
+  },
+  {
+    "baseline_prob": 0.527,
+    "condition": "cdr3_cys=no_cys",
+    "confidence": 0.731,
+    "lift": 1.39,
+    "position": "IMGT84",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "N",
+    "support": 22417
+  },
+  {
+    "baseline_prob": 0.792,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.942,
+    "lift": 1.19,
+    "position": "IMGT73",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "G",
+    "support": 22403
+  },
+  {
+    "baseline_prob": 0.772,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.938,
+    "lift": 1.21,
+    "position": "IMGT75",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "F",
+    "support": 22323
+  },
+  {
+    "baseline_prob": 0.774,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.937,
+    "lift": 1.21,
+    "position": "IMGT70",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "S",
+    "support": 22301
+  },
+  {
+    "baseline_prob": 0.526,
+    "condition": "cdr3_cys=no_cys",
+    "confidence": 0.723,
+    "lift": 1.38,
+    "position": "IMGT85",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "T",
+    "support": 22201
+  },
+  {
+    "baseline_prob": 0.748,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.93,
+    "lift": 1.24,
+    "position": "IMGT78",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "S",
+    "support": 22137
+  },
+  {
+    "baseline_prob": 0.516,
+    "condition": "cdr3_len=long",
+    "confidence": 0.871,
+    "lift": 1.69,
+    "position": "IMGT89",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 22016
+  },
+  {
+    "baseline_prob": 0.69,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.922,
+    "lift": 1.34,
+    "position": "IMGT76",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "T",
+    "support": 21938
+  },
+  {
+    "baseline_prob": 0.747,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.917,
+    "lift": 1.23,
+    "position": "IMGT71",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "V",
+    "support": 21812
+  },
+  {
+    "baseline_prob": 0.771,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.91,
+    "lift": 1.18,
+    "position": "IMGT69",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "D",
+    "support": 21660
+  },
+  {
+    "baseline_prob": 0.718,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.907,
+    "lift": 1.26,
+    "position": "IMGT80",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "D",
+    "support": 21588
+  },
+  {
+    "baseline_prob": 0.488,
+    "condition": "cdr3_cys=no_cys",
+    "confidence": 0.701,
+    "lift": 1.44,
+    "position": "IMGT92",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "S",
+    "support": 21515
+  },
+  {
+    "baseline_prob": 0.672,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.904,
+    "lift": 1.34,
+    "position": "IMGT82",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "A",
+    "support": 21513
+  },
+  {
+    "baseline_prob": 0.658,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.903,
+    "lift": 1.37,
+    "position": "IMGT81",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "N",
+    "support": 21475
+  },
+  {
+    "baseline_prob": 0.504,
+    "condition": "cdr3_len=long",
+    "confidence": 0.849,
+    "lift": 1.69,
+    "position": "IMGT94",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 21463
+  },
+  {
+    "baseline_prob": 0.546,
+    "condition": "cdr3_len=long",
+    "confidence": 0.824,
+    "lift": 1.51,
+    "position": "IMGT42",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "F",
+    "support": 20844
+  },
+  {
+    "baseline_prob": 0.526,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.866,
+    "lift": 1.65,
+    "position": "IMGT85",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "T",
+    "support": 20613
+  },
+  {
+    "baseline_prob": 0.683,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.865,
+    "lift": 1.27,
+    "position": "IMGT77",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "I",
+    "support": 20587
+  },
+  {
+    "baseline_prob": 0.715,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.861,
+    "lift": 1.21,
+    "position": "IMGT79",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "R",
+    "support": 20497
+  },
+  {
+    "baseline_prob": 0.527,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.859,
+    "lift": 1.63,
+    "position": "IMGT84",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "N",
+    "support": 20448
+  },
+  {
+    "baseline_prob": 0.488,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.854,
+    "lift": 1.75,
+    "position": "IMGT92",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "S",
+    "support": 20331
+  },
+  {
+    "baseline_prob": 0.46,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.851,
+    "lift": 1.85,
+    "position": "IMGT89",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "Q",
+    "support": 20253
+  },
+  {
+    "baseline_prob": 0.675,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.85,
+    "lift": 1.26,
+    "position": "IMGT68",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "A",
+    "support": 20229
+  },
+  {
+    "baseline_prob": 0.825,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.986,
+    "lift": 1.19,
+    "position": "IMGT100",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "A",
+    "support": 20227
+  },
+  {
+    "baseline_prob": 0.462,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.85,
+    "lift": 1.84,
+    "position": "IMGT88",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 20216
+  },
+  {
+    "baseline_prob": 0.785,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.984,
+    "lift": 1.25,
+    "position": "IMGT74",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "R",
+    "support": 20202
+  },
+  {
+    "baseline_prob": 0.456,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.849,
+    "lift": 1.86,
+    "position": "IMGT96",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "E",
+    "support": 20195
+  },
+  {
+    "baseline_prob": 0.463,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.845,
+    "lift": 1.83,
+    "position": "IMGT87",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "Y",
+    "support": 20115
+  },
+  {
+    "baseline_prob": 0.477,
+    "condition": "cdr3_len=long",
+    "confidence": 0.795,
+    "lift": 1.67,
+    "position": "IMGT101",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "V",
+    "support": 20099
+  },
+  {
+    "baseline_prob": 0.456,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.844,
+    "lift": 1.85,
+    "position": "IMGT93",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 20073
+  },
+  {
+    "baseline_prob": 0.792,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.978,
+    "lift": 1.23,
+    "position": "IMGT73",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "G",
+    "support": 20063
+  },
+  {
+    "baseline_prob": 0.718,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.977,
+    "lift": 1.36,
+    "position": "IMGT80",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "D",
+    "support": 20041
+  },
+  {
+    "baseline_prob": 0.455,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.842,
+    "lift": 1.85,
+    "position": "IMGT90",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "M",
+    "support": 20039
+  },
+  {
+    "baseline_prob": 0.449,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.842,
+    "lift": 1.88,
+    "position": "IMGT94",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "K",
+    "support": 20030
+  },
+  {
+    "baseline_prob": 0.449,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.842,
+    "lift": 1.87,
+    "position": "IMGT91",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "N",
+    "support": 20025
+  },
+  {
+    "baseline_prob": 0.555,
+    "condition": "cdr3_len=long",
+    "confidence": 0.792,
+    "lift": 1.43,
+    "position": "IMGT49",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "E",
+    "support": 20013
+  },
+  {
+    "baseline_prob": 0.748,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.974,
+    "lift": 1.3,
+    "position": "IMGT78",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "S",
+    "support": 19985
+  },
+  {
+    "baseline_prob": 0.772,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.974,
+    "lift": 1.26,
+    "position": "IMGT75",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "F",
+    "support": 19981
+  },
+  {
+    "baseline_prob": 0.774,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.97,
+    "lift": 1.25,
+    "position": "IMGT70",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "S",
+    "support": 19904
+  },
+  {
+    "baseline_prob": 0.488,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.967,
+    "lift": 1.98,
+    "position": "IMGT92",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "S",
+    "support": 19851
+  },
+  {
+    "baseline_prob": 0.426,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.833,
+    "lift": 1.96,
+    "position": "IMGT95",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "H",
+    "support": 19823
+  },
+  {
+    "baseline_prob": 0.672,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.962,
+    "lift": 1.43,
+    "position": "IMGT82",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "A",
+    "support": 19737
+  },
+  {
+    "baseline_prob": 0.658,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.959,
+    "lift": 1.46,
+    "position": "IMGT81",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "N",
+    "support": 19680
+  },
+  {
+    "baseline_prob": 0.45,
+    "condition": "cdr3_len=long",
+    "confidence": 0.774,
+    "lift": 1.72,
+    "position": "IMGT96",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "P",
+    "support": 19573
+  },
+  {
+    "baseline_prob": 0.505,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.953,
+    "lift": 1.89,
+    "position": "IMGT120",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "K",
+    "support": 19565
+  },
+  {
+    "baseline_prob": 0.747,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.952,
+    "lift": 1.27,
+    "position": "IMGT71",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "V",
+    "support": 19536
+  },
+  {
+    "baseline_prob": 0.464,
+    "condition": "cdr3_len=long",
+    "confidence": 0.772,
+    "lift": 1.67,
+    "position": "IMGT91",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "M",
+    "support": 19523
+  },
+  {
+    "baseline_prob": 0.418,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.814,
+    "lift": 1.95,
+    "position": "IMGT101",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 19364
+  },
+  {
+    "baseline_prob": 0.771,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.94,
+    "lift": 1.22,
+    "position": "IMGT69",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "D",
+    "support": 19288
+  },
+  {
+    "baseline_prob": 0.505,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.811,
+    "lift": 1.6,
+    "position": "IMGT120",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "K",
+    "support": 19286
+  },
+  {
+    "baseline_prob": 0.69,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.929,
+    "lift": 1.35,
+    "position": "IMGT76",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "T",
+    "support": 19062
+  },
+  {
+    "baseline_prob": 0.526,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.925,
+    "lift": 1.76,
+    "position": "IMGT85",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "T",
+    "support": 18980
+  },
+  {
+    "baseline_prob": 0.46,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.924,
+    "lift": 2.01,
+    "position": "IMGT89",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "Q",
+    "support": 18971
+  },
+  {
+    "baseline_prob": 0.456,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.924,
+    "lift": 2.03,
+    "position": "IMGT96",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "E",
+    "support": 18956
+  },
+  {
+    "baseline_prob": 0.462,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.922,
+    "lift": 1.99,
+    "position": "IMGT88",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 18912
+  },
+  {
+    "baseline_prob": 0.456,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.918,
+    "lift": 2.01,
+    "position": "IMGT93",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 18838
+  },
+  {
+    "baseline_prob": 0.449,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.917,
+    "lift": 2.04,
+    "position": "IMGT94",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "K",
+    "support": 18815
+  },
+  {
+    "baseline_prob": 0.463,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.917,
+    "lift": 1.98,
+    "position": "IMGT87",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "Y",
+    "support": 18815
+  },
+  {
+    "baseline_prob": 0.455,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.916,
+    "lift": 2.01,
+    "position": "IMGT90",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "M",
+    "support": 18795
+  },
+  {
+    "baseline_prob": 0.449,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.916,
+    "lift": 2.04,
+    "position": "IMGT91",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "N",
+    "support": 18791
+  },
+  {
+    "baseline_prob": 0.426,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.914,
+    "lift": 2.15,
+    "position": "IMGT95",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "H",
+    "support": 18757
+  },
+  {
+    "baseline_prob": 0.527,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.913,
+    "lift": 1.73,
+    "position": "IMGT84",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "N",
+    "support": 18737
+  },
+  {
+    "baseline_prob": 0.683,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.898,
+    "lift": 1.31,
+    "position": "IMGT77",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "I",
+    "support": 18433
+  },
+  {
+    "baseline_prob": 0.715,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.897,
+    "lift": 1.26,
+    "position": "IMGT79",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "R",
+    "support": 18409
+  },
+  {
+    "baseline_prob": 0.418,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.895,
+    "lift": 2.14,
+    "position": "IMGT101",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 18378
+  },
+  {
+    "baseline_prob": 0.454,
+    "condition": "cdr3_len=long",
+    "confidence": 0.724,
+    "lift": 1.59,
+    "position": "IMGT120",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "Q",
+    "support": 18310
+  },
+  {
+    "baseline_prob": 0.675,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.883,
+    "lift": 1.31,
+    "position": "IMGT68",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "A",
+    "support": 18126
+  },
+  {
+    "baseline_prob": 0.407,
+    "condition": "cdr3_len=long",
+    "confidence": 0.705,
+    "lift": 1.73,
+    "position": "IMGT87",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "V",
+    "support": 17835
+  },
+  {
+    "baseline_prob": 0.41,
+    "condition": "cdr3_len=medium",
+    "confidence": 0.735,
+    "lift": 1.79,
+    "position": "IMGT86",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 17496
+  },
+  {
+    "baseline_prob": 0.41,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.843,
+    "lift": 2.05,
+    "position": "IMGT86",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 17292
+  },
+  {
+    "baseline_prob": 0.693,
+    "condition": "cdr3_cys=one_cys",
+    "confidence": 0.911,
+    "lift": 1.31,
+    "position": "IMGT50",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "R",
+    "support": 16538
+  },
+  {
+    "baseline_prob": 0.516,
+    "condition": "cdr3_cys=one_cys",
+    "confidence": 0.88,
+    "lift": 1.71,
+    "position": "IMGT89",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 15981
+  },
+  {
+    "baseline_prob": 0.504,
+    "condition": "cdr3_cys=one_cys",
+    "confidence": 0.857,
+    "lift": 1.7,
+    "position": "IMGT94",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 15563
+  },
+  {
+    "baseline_prob": 0.546,
+    "condition": "cdr3_cys=one_cys",
+    "confidence": 0.853,
+    "lift": 1.56,
+    "position": "IMGT42",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "F",
+    "support": 15493
+  },
+  {
+    "baseline_prob": 0.504,
+    "condition": "cdr3[-3]=L",
+    "confidence": 0.728,
+    "lift": 1.45,
+    "position": "IMGT66",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "Y",
+    "support": 14950
+  },
+  {
+    "baseline_prob": 0.555,
+    "condition": "cdr3_cys=one_cys",
+    "confidence": 0.82,
+    "lift": 1.48,
+    "position": "IMGT49",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "E",
+    "support": 14883
+  },
+  {
+    "baseline_prob": 0.477,
+    "condition": "cdr3_cys=one_cys",
+    "confidence": 0.799,
+    "lift": 1.68,
+    "position": "IMGT101",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "V",
+    "support": 14504
+  },
+  {
+    "baseline_prob": 0.45,
+    "condition": "cdr3_cys=one_cys",
+    "confidence": 0.778,
+    "lift": 1.73,
+    "position": "IMGT96",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "P",
+    "support": 14131
+  },
+  {
+    "baseline_prob": 0.464,
+    "condition": "cdr3_cys=one_cys",
+    "confidence": 0.765,
+    "lift": 1.65,
+    "position": "IMGT91",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "M",
+    "support": 13879
+  },
+  {
+    "baseline_prob": 0.407,
+    "condition": "cdr3_cys=one_cys",
+    "confidence": 0.758,
+    "lift": 1.86,
+    "position": "IMGT87",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "V",
+    "support": 13752
+  },
+  {
+    "baseline_prob": 0.416,
+    "condition": "cdr3_cys=one_cys",
+    "confidence": 0.723,
+    "lift": 1.74,
+    "position": "IMGT88",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "Y",
+    "support": 13127
+  },
+  {
+    "baseline_prob": 0.416,
+    "condition": "cdr3_cys=one_cys",
+    "confidence": 0.705,
+    "lift": 1.69,
+    "position": "IMGT92",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "N",
+    "support": 12801
+  },
+  {
+    "baseline_prob": 0.25,
+    "condition": "family=VH_like",
+    "confidence": 1.0,
+    "lift": 4.0,
+    "position": "IMGT50",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 12399
+  },
+  {
+    "baseline_prob": 0.825,
+    "condition": "family=VH_like",
+    "confidence": 0.974,
+    "lift": 1.18,
+    "position": "IMGT100",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "A",
+    "support": 12076
+  },
+  {
+    "baseline_prob": 0.299,
+    "condition": "family=VH_like",
+    "confidence": 0.967,
+    "lift": 3.23,
+    "position": "IMGT52",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "W",
+    "support": 11996
+  },
+  {
+    "baseline_prob": 0.516,
+    "condition": "hallmarks=FERG",
+    "confidence": 0.757,
+    "lift": 1.47,
+    "position": "IMGT89",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 11980
+  },
+  {
+    "baseline_prob": 0.785,
+    "condition": "family=VH_like",
+    "confidence": 0.952,
+    "lift": 1.21,
+    "position": "IMGT74",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "R",
+    "support": 11808
+  },
+  {
+    "baseline_prob": 0.774,
+    "condition": "family=VH_like",
+    "confidence": 0.95,
+    "lift": 1.23,
+    "position": "IMGT70",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "S",
+    "support": 11774
+  },
+  {
+    "baseline_prob": 0.792,
+    "condition": "family=VH_like",
+    "confidence": 0.947,
+    "lift": 1.2,
+    "position": "IMGT73",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "G",
+    "support": 11741
+  },
+  {
+    "baseline_prob": 0.772,
+    "condition": "family=VH_like",
+    "confidence": 0.943,
+    "lift": 1.22,
+    "position": "IMGT75",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "F",
+    "support": 11688
+  },
+  {
+    "baseline_prob": 0.718,
+    "condition": "family=VH_like",
+    "confidence": 0.941,
+    "lift": 1.31,
+    "position": "IMGT80",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "D",
+    "support": 11662
+  },
+  {
+    "baseline_prob": 0.748,
+    "condition": "family=VH_like",
+    "confidence": 0.94,
+    "lift": 1.26,
+    "position": "IMGT78",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "S",
+    "support": 11660
+  },
+  {
+    "baseline_prob": 0.293,
+    "condition": "family=VH_like",
+    "confidence": 0.938,
+    "lift": 3.21,
+    "position": "IMGT49",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "G",
+    "support": 11636
+  },
+  {
+    "baseline_prob": 0.69,
+    "condition": "family=VH_like",
+    "confidence": 0.935,
+    "lift": 1.36,
+    "position": "IMGT76",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "T",
+    "support": 11597
+  },
+  {
+    "baseline_prob": 0.504,
+    "condition": "hallmarks=FERG",
+    "confidence": 0.732,
+    "lift": 1.45,
+    "position": "IMGT94",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 11582
+  },
+  {
+    "baseline_prob": 0.672,
+    "condition": "family=VH_like",
+    "confidence": 0.927,
+    "lift": 1.38,
+    "position": "IMGT82",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "A",
+    "support": 11489
+  },
+  {
+    "baseline_prob": 0.658,
+    "condition": "family=VH_like",
+    "confidence": 0.925,
+    "lift": 1.41,
+    "position": "IMGT81",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "N",
+    "support": 11463
+  },
+  {
+    "baseline_prob": 0.675,
+    "condition": "family=VH_like",
+    "confidence": 0.923,
+    "lift": 1.37,
+    "position": "IMGT68",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "A",
+    "support": 11440
+  },
+  {
+    "baseline_prob": 0.477,
+    "condition": "hallmarks=FERG",
+    "confidence": 0.719,
+    "lift": 1.51,
+    "position": "IMGT101",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "V",
+    "support": 11377
+  },
+  {
+    "baseline_prob": 0.747,
+    "condition": "family=VH_like",
+    "confidence": 0.913,
+    "lift": 1.22,
+    "position": "IMGT71",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "V",
+    "support": 11321
+  },
+  {
+    "baseline_prob": 0.693,
+    "condition": "cdr3_charge=negative",
+    "confidence": 0.886,
+    "lift": 1.28,
+    "position": "IMGT50",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "R",
+    "support": 11319
+  },
+  {
+    "baseline_prob": 0.526,
+    "condition": "family=VH_like",
+    "confidence": 0.908,
+    "lift": 1.73,
+    "position": "IMGT85",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "T",
+    "support": 11261
+  },
+  {
+    "baseline_prob": 0.488,
+    "condition": "family=VH_like",
+    "confidence": 0.906,
+    "lift": 1.86,
+    "position": "IMGT92",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "S",
+    "support": 11231
+  },
+  {
+    "baseline_prob": 0.46,
+    "condition": "family=VH_like",
+    "confidence": 0.904,
+    "lift": 1.96,
+    "position": "IMGT89",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "Q",
+    "support": 11203
+  },
+  {
+    "baseline_prob": 0.771,
+    "condition": "family=VH_like",
+    "confidence": 0.903,
+    "lift": 1.17,
+    "position": "IMGT69",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "D",
+    "support": 11192
+  },
+  {
+    "baseline_prob": 0.456,
+    "condition": "family=VH_like",
+    "confidence": 0.901,
+    "lift": 1.98,
+    "position": "IMGT96",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "E",
+    "support": 11177
+  },
+  {
+    "baseline_prob": 0.45,
+    "condition": "hallmarks=FERG",
+    "confidence": 0.706,
+    "lift": 1.57,
+    "position": "IMGT96",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "P",
+    "support": 11169
+  },
+  {
+    "baseline_prob": 0.462,
+    "condition": "family=VH_like",
+    "confidence": 0.9,
+    "lift": 1.95,
+    "position": "IMGT88",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 11163
+  },
+  {
+    "baseline_prob": 0.527,
+    "condition": "family=VH_like",
+    "confidence": 0.9,
+    "lift": 1.71,
+    "position": "IMGT84",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "N",
+    "support": 11163
+  },
+  {
+    "baseline_prob": 0.546,
+    "condition": "family=F_C4",
+    "confidence": 1.0,
+    "lift": 1.83,
+    "position": "IMGT42",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "F",
+    "support": 11146
+  },
+  {
+    "baseline_prob": 0.693,
+    "condition": "family=F_C4",
+    "confidence": 1.0,
+    "lift": 1.44,
+    "position": "IMGT50",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "R",
+    "support": 11146
+  },
+  {
+    "baseline_prob": 0.683,
+    "condition": "family=VH_like",
+    "confidence": 0.899,
+    "lift": 1.32,
+    "position": "IMGT77",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "I",
+    "support": 11141
+  },
+  {
+    "baseline_prob": 0.455,
+    "condition": "family=VH_like",
+    "confidence": 0.898,
+    "lift": 1.97,
+    "position": "IMGT90",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "M",
+    "support": 11133
+  },
+  {
+    "baseline_prob": 0.463,
+    "condition": "family=VH_like",
+    "confidence": 0.898,
+    "lift": 1.94,
+    "position": "IMGT87",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "Y",
+    "support": 11132
+  },
+  {
+    "baseline_prob": 0.456,
+    "condition": "family=VH_like",
+    "confidence": 0.897,
+    "lift": 1.97,
+    "position": "IMGT93",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 11119
+  },
+  {
+    "baseline_prob": 0.555,
+    "condition": "family=F_C4",
+    "confidence": 0.997,
+    "lift": 1.8,
+    "position": "IMGT49",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "E",
+    "support": 11117
+  },
+  {
+    "baseline_prob": 0.449,
+    "condition": "family=VH_like",
+    "confidence": 0.896,
+    "lift": 2.0,
+    "position": "IMGT91",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "N",
+    "support": 11107
+  },
+  {
+    "baseline_prob": 0.715,
+    "condition": "family=VH_like",
+    "confidence": 0.896,
+    "lift": 1.25,
+    "position": "IMGT79",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "R",
+    "support": 11105
+  },
+  {
+    "baseline_prob": 0.449,
+    "condition": "family=VH_like",
+    "confidence": 0.894,
+    "lift": 1.99,
+    "position": "IMGT94",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "K",
+    "support": 11085
+  },
+  {
+    "baseline_prob": 0.426,
+    "condition": "family=VH_like",
+    "confidence": 0.891,
+    "lift": 2.09,
+    "position": "IMGT95",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "H",
+    "support": 11048
+  },
+  {
+    "baseline_prob": 0.454,
+    "condition": "cdr3[-3]=Y",
+    "confidence": 0.928,
+    "lift": 2.04,
+    "position": "IMGT120",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "Q",
+    "support": 11006
+  },
+  {
+    "baseline_prob": 0.516,
+    "condition": "cdr3_charge=negative",
+    "confidence": 0.853,
+    "lift": 1.65,
+    "position": "IMGT89",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 10897
+  },
+  {
+    "baseline_prob": 0.693,
+    "condition": "cdr3[-3]=Y",
+    "confidence": 0.91,
+    "lift": 1.31,
+    "position": "IMGT50",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "R",
+    "support": 10799
+  },
+  {
+    "baseline_prob": 0.272,
+    "condition": "family=VH_like",
+    "confidence": 0.865,
+    "lift": 3.18,
+    "position": "IMGT42",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "V",
+    "support": 10725
+  },
+  {
+    "baseline_prob": 0.505,
+    "condition": "family=VH_like",
+    "confidence": 0.861,
+    "lift": 1.7,
+    "position": "IMGT120",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "K",
+    "support": 10670
+  },
+  {
+    "baseline_prob": 0.418,
+    "condition": "family=VH_like",
+    "confidence": 0.854,
+    "lift": 2.04,
+    "position": "IMGT101",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 10586
+  },
+  {
+    "baseline_prob": 0.516,
+    "condition": "family=F_C4",
+    "confidence": 0.934,
+    "lift": 1.81,
+    "position": "IMGT89",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 10409
+  },
+  {
+    "baseline_prob": 0.504,
+    "condition": "cdr3_charge=negative",
+    "confidence": 0.813,
+    "lift": 1.61,
+    "position": "IMGT94",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 10394
+  },
+  {
+    "baseline_prob": 0.516,
+    "condition": "cdr3[-3]=Y",
+    "confidence": 0.869,
+    "lift": 1.68,
+    "position": "IMGT89",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 10306
+  },
+  {
+    "baseline_prob": 0.41,
+    "condition": "family=VH_like",
+    "confidence": 0.826,
+    "lift": 2.01,
+    "position": "IMGT86",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 10240
+  },
+  {
+    "baseline_prob": 0.693,
+    "condition": "family=Classical_other",
+    "confidence": 1.0,
+    "lift": 1.44,
+    "position": "IMGT50",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "R",
+    "support": 10188
+  },
+  {
+    "baseline_prob": 0.504,
+    "condition": "family=F_C4",
+    "confidence": 0.912,
+    "lift": 1.81,
+    "position": "IMGT94",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 10170
+  },
+  {
+    "baseline_prob": 0.504,
+    "condition": "family=VH_like",
+    "confidence": 0.818,
+    "lift": 1.62,
+    "position": "IMGT66",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "Y",
+    "support": 10139
+  },
+  {
+    "baseline_prob": 0.477,
+    "condition": "cdr3_charge=negative",
+    "confidence": 0.791,
+    "lift": 1.66,
+    "position": "IMGT101",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "V",
+    "support": 10107
+  },
+  {
+    "baseline_prob": 0.546,
+    "condition": "cdr3_charge=negative",
+    "confidence": 0.78,
+    "lift": 1.43,
+    "position": "IMGT42",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "F",
+    "support": 9966
+  },
+  {
+    "baseline_prob": 0.555,
+    "condition": "cdr3_charge=negative",
+    "confidence": 0.775,
+    "lift": 1.4,
+    "position": "IMGT49",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "E",
+    "support": 9902
+  },
+  {
+    "baseline_prob": 0.546,
+    "condition": "cdr3[-3]=Y",
+    "confidence": 0.834,
+    "lift": 1.53,
+    "position": "IMGT42",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "F",
+    "support": 9898
+  },
+  {
+    "baseline_prob": 0.504,
+    "condition": "cdr3[-3]=Y",
+    "confidence": 0.834,
+    "lift": 1.66,
+    "position": "IMGT94",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 9890
+  },
+  {
+    "baseline_prob": 0.464,
+    "condition": "cdr3_charge=negative",
+    "confidence": 0.772,
+    "lift": 1.66,
+    "position": "IMGT91",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "M",
+    "support": 9866
+  },
+  {
+    "baseline_prob": 0.409,
+    "condition": "cdr3_charge=negative",
+    "confidence": 0.768,
+    "lift": 1.88,
+    "position": "IMGT95",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "K",
+    "support": 9814
+  },
+  {
+    "baseline_prob": 0.825,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.98,
+    "lift": 1.19,
+    "position": "IMGT100",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "A",
+    "support": 9786
+  },
+  {
+    "baseline_prob": 0.416,
+    "condition": "cdr3_charge=negative",
+    "confidence": 0.763,
+    "lift": 1.83,
+    "position": "IMGT88",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "Y",
+    "support": 9750
+  },
+  {
+    "baseline_prob": 0.407,
+    "condition": "cdr3_charge=negative",
+    "confidence": 0.754,
+    "lift": 1.85,
+    "position": "IMGT87",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "V",
+    "support": 9636
+  },
+  {
+    "baseline_prob": 0.785,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.961,
+    "lift": 1.22,
+    "position": "IMGT74",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "R",
+    "support": 9598
+  },
+  {
+    "baseline_prob": 0.774,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.959,
+    "lift": 1.24,
+    "position": "IMGT70",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "S",
+    "support": 9578
+  },
+  {
+    "baseline_prob": 0.792,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.957,
+    "lift": 1.21,
+    "position": "IMGT73",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "G",
+    "support": 9549
+  },
+  {
+    "baseline_prob": 0.772,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.952,
+    "lift": 1.23,
+    "position": "IMGT75",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "F",
+    "support": 9505
+  },
+  {
+    "baseline_prob": 0.718,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.951,
+    "lift": 1.33,
+    "position": "IMGT80",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "D",
+    "support": 9496
+  },
+  {
+    "baseline_prob": 0.748,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.951,
+    "lift": 1.27,
+    "position": "IMGT78",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "S",
+    "support": 9495
+  },
+  {
+    "baseline_prob": 0.555,
+    "condition": "cdr3[-3]=Y",
+    "confidence": 0.8,
+    "lift": 1.44,
+    "position": "IMGT49",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "E",
+    "support": 9493
+  },
+  {
+    "baseline_prob": 0.477,
+    "condition": "cdr3[-3]=Y",
+    "confidence": 0.798,
+    "lift": 1.68,
+    "position": "IMGT101",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "V",
+    "support": 9470
+  },
+  {
+    "baseline_prob": 0.69,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.946,
+    "lift": 1.37,
+    "position": "IMGT76",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "T",
+    "support": 9442
+  },
+  {
+    "baseline_prob": 0.672,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.942,
+    "lift": 1.4,
+    "position": "IMGT82",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "A",
+    "support": 9400
+  },
+  {
+    "baseline_prob": 0.658,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.935,
+    "lift": 1.42,
+    "position": "IMGT81",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "N",
+    "support": 9338
+  },
+  {
+    "baseline_prob": 0.675,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.933,
+    "lift": 1.38,
+    "position": "IMGT68",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "A",
+    "support": 9315
+  },
+  {
+    "baseline_prob": 0.477,
+    "condition": "family=F_C4",
+    "confidence": 0.833,
+    "lift": 1.75,
+    "position": "IMGT101",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "V",
+    "support": 9281
+  },
+  {
+    "baseline_prob": 0.454,
+    "condition": "cdr3_charge=negative",
+    "confidence": 0.723,
+    "lift": 1.59,
+    "position": "IMGT120",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "Q",
+    "support": 9244
+  },
+  {
+    "baseline_prob": 0.555,
+    "condition": "family=Classical_other",
+    "confidence": 0.907,
+    "lift": 1.63,
+    "position": "IMGT49",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "E",
+    "support": 9243
+  },
+  {
+    "baseline_prob": 0.747,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.922,
+    "lift": 1.23,
+    "position": "IMGT71",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "V",
+    "support": 9201
+  },
+  {
+    "baseline_prob": 0.526,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.921,
+    "lift": 1.75,
+    "position": "IMGT85",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "T",
+    "support": 9196
+  },
+  {
+    "baseline_prob": 0.45,
+    "condition": "family=F_C4",
+    "confidence": 0.824,
+    "lift": 1.83,
+    "position": "IMGT96",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "P",
+    "support": 9184
+  },
+  {
+    "baseline_prob": 0.488,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.92,
+    "lift": 1.89,
+    "position": "IMGT92",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "S",
+    "support": 9181
+  },
+  {
+    "baseline_prob": 0.45,
+    "condition": "cdr3_charge=negative",
+    "confidence": 0.717,
+    "lift": 1.59,
+    "position": "IMGT96",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "P",
+    "support": 9162
+  },
+  {
+    "baseline_prob": 0.46,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.916,
+    "lift": 1.99,
+    "position": "IMGT89",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "Q",
+    "support": 9147
+  },
+  {
+    "baseline_prob": 0.456,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.916,
+    "lift": 2.01,
+    "position": "IMGT96",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "E",
+    "support": 9142
+  },
+  {
+    "baseline_prob": 0.407,
+    "condition": "family=F_C4",
+    "confidence": 0.819,
+    "lift": 2.01,
+    "position": "IMGT87",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "V",
+    "support": 9131
+  },
+  {
+    "baseline_prob": 0.416,
+    "condition": "cdr3_charge=negative",
+    "confidence": 0.714,
+    "lift": 1.72,
+    "position": "IMGT92",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "N",
+    "support": 9130
+  },
+  {
+    "baseline_prob": 0.462,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.914,
+    "lift": 1.98,
+    "position": "IMGT88",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 9124
+  },
+  {
+    "baseline_prob": 0.463,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.912,
+    "lift": 1.97,
+    "position": "IMGT87",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "Y",
+    "support": 9105
+  },
+  {
+    "baseline_prob": 0.456,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.911,
+    "lift": 2.0,
+    "position": "IMGT93",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 9096
+  },
+  {
+    "baseline_prob": 0.683,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.911,
+    "lift": 1.33,
+    "position": "IMGT77",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "I",
+    "support": 9096
+  },
+  {
+    "baseline_prob": 0.455,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.911,
+    "lift": 2.0,
+    "position": "IMGT90",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "M",
+    "support": 9095
+  },
+  {
+    "baseline_prob": 0.449,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.91,
+    "lift": 2.03,
+    "position": "IMGT91",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "N",
+    "support": 9081
+  },
+  {
+    "baseline_prob": 0.527,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.909,
+    "lift": 1.73,
+    "position": "IMGT84",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "N",
+    "support": 9078
+  },
+  {
+    "baseline_prob": 0.771,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.909,
+    "lift": 1.18,
+    "position": "IMGT69",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "D",
+    "support": 9074
+  },
+  {
+    "baseline_prob": 0.715,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.909,
+    "lift": 1.27,
+    "position": "IMGT79",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "R",
+    "support": 9073
+  },
+  {
+    "baseline_prob": 0.449,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.908,
+    "lift": 2.02,
+    "position": "IMGT94",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "K",
+    "support": 9066
+  },
+  {
+    "baseline_prob": 0.426,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.908,
+    "lift": 2.13,
+    "position": "IMGT95",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "H",
+    "support": 9064
+  },
+  {
+    "baseline_prob": 0.464,
+    "condition": "family=F_C4",
+    "confidence": 0.81,
+    "lift": 1.75,
+    "position": "IMGT91",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "M",
+    "support": 9023
+  },
+  {
+    "baseline_prob": 0.464,
+    "condition": "cdr3[-3]=Y",
+    "confidence": 0.754,
+    "lift": 1.63,
+    "position": "IMGT91",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "M",
+    "support": 8942
+  },
+  {
+    "baseline_prob": 0.383,
+    "condition": "family=F_C4",
+    "confidence": 0.799,
+    "lift": 2.08,
+    "position": "IMGT52",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "G",
+    "support": 8902
+  },
+  {
+    "baseline_prob": 0.546,
+    "condition": "family=Classical_other",
+    "confidence": 0.866,
+    "lift": 1.59,
+    "position": "IMGT42",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "F",
+    "support": 8824
+  },
+  {
+    "baseline_prob": 0.45,
+    "condition": "cdr3[-3]=Y",
+    "confidence": 0.74,
+    "lift": 1.65,
+    "position": "IMGT96",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "P",
+    "support": 8781
+  },
+  {
+    "baseline_prob": 0.505,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.874,
+    "lift": 1.73,
+    "position": "IMGT120",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "K",
+    "support": 8722
+  },
+  {
+    "baseline_prob": 0.418,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.869,
+    "lift": 2.08,
+    "position": "IMGT101",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 8673
+  },
+  {
+    "baseline_prob": 0.407,
+    "condition": "cdr3[-3]=Y",
+    "confidence": 0.731,
+    "lift": 1.79,
+    "position": "IMGT87",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "V",
+    "support": 8672
+  },
+  {
+    "baseline_prob": 0.416,
+    "condition": "family=F_C4",
+    "confidence": 0.772,
+    "lift": 1.86,
+    "position": "IMGT88",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "Y",
+    "support": 8610
+  },
+  {
+    "baseline_prob": 0.409,
+    "condition": "family=F_C4",
+    "confidence": 0.756,
+    "lift": 1.85,
+    "position": "IMGT95",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "K",
+    "support": 8424
+  },
+  {
+    "baseline_prob": 0.416,
+    "condition": "family=F_C4",
+    "confidence": 0.754,
+    "lift": 1.81,
+    "position": "IMGT92",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "N",
+    "support": 8400
+  },
+  {
+    "baseline_prob": 0.504,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.841,
+    "lift": 1.67,
+    "position": "IMGT66",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "Y",
+    "support": 8397
+  },
+  {
+    "baseline_prob": 0.41,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.84,
+    "lift": 2.05,
+    "position": "IMGT86",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "L",
+    "support": 8389
+  },
+  {
+    "baseline_prob": 0.308,
+    "condition": "hallmarks=VGLW",
+    "confidence": 0.704,
+    "lift": 2.29,
+    "position": "IMGT83",
+    "source": "compensation_imgt_v2",
+    "suggested_aa": "E",
+    "support": 7032
+  }
+]

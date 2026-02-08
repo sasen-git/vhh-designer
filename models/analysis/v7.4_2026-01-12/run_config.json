@@ -1,0 +1,54 @@
+{
+  "version": "v7.4",
+  "started_at": "2026-01-12T19:15:27",
+  "command_line": [
+    "active/analysis/vhh_analysis_unified_v7.4.py",
+    "--csv",
+    "data/databases/annotated/vhh_full_annotated_v4_dedup_indiv_imgtfull/vhh_annotated.csv.imgtfull.dedup.csv",
+    "data/databases/annotated/vhh_full_annotated_v4_dedup_indiv_imgtfull/vhh_indi_ngs_000.csv.imgtfull.dedup.csv",
+    "data/databases/annotated/vhh_full_annotated_v4_dedup_indiv_imgtfull/vhh_indi_ngs_001.csv.imgtfull.dedup.csv",
+    "data/databases/annotated/vhh_full_annotated_v4_dedup_indiv_imgtfull/vhh_indi_ngs_002.csv.imgtfull.dedup.csv",
+    "data/databases/annotated/vhh_full_annotated_v4_dedup_indiv_imgtfull/vhh_indi_ngs_003.csv.imgtfull.dedup.csv",
+    "data/databases/annotated/vhh_full_annotated_v4_dedup_indiv_imgtfull/vhh_indi_ngs_004.csv.imgtfull.dedup.csv",
+    "data/databases/annotated/vhh_full_annotated_v4_dedup_indiv_imgtfull/vhh_indi_ngs_005.csv.imgtfull.dedup.csv",
+    "data/databases/annotated/vhh_full_annotated_v4_dedup_indiv_imgtfull/vhh_oas_camel.csv.imgtfull.dedup.csv",
+    "-o",
+    "models/analysis",
+    "--filter-truncated",
+    "--emit-legacy-pickles"
+  ],
+  "output_dir": "models/analysis/v7.4_2026-01-12",
+  "system": {
+    "hostname": "Sasen",
+    "platform": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+    "python_version": "3.12.11"
+  },
+  "parameters": {
+    "csv_files": [
+      "data/databases/annotated/vhh_full_annotated_v4_dedup_indiv_imgtfull/vhh_annotated.csv.imgtfull.dedup.csv",
+      "data/databases/annotated/vhh_full_annotated_v4_dedup_indiv_imgtfull/vhh_indi_ngs_000.csv.imgtfull.dedup.csv",
+      "data/databases/annotated/vhh_full_annotated_v4_dedup_indiv_imgtfull/vhh_indi_ngs_001.csv.imgtfull.dedup.csv",
+      "data/databases/annotated/vhh_full_annotated_v4_dedup_indiv_imgtfull/vhh_indi_ngs_002.csv.imgtfull.dedup.csv",
+      "data/databases/annotated/vhh_full_annotated_v4_dedup_indiv_imgtfull/vhh_indi_ngs_003.csv.imgtfull.dedup.csv",
+      "data/databases/annotated/vhh_full_annotated_v4_dedup_indiv_imgtfull/vhh_indi_ngs_004.csv.imgtfull.dedup.csv",
+      "data/databases/annotated/vhh_full_annotated_v4_dedup_indiv_imgtfull/vhh_indi_ngs_005.csv.imgtfull.dedup.csv",
+      "data/databases/annotated/vhh_full_annotated_v4_dedup_indiv_imgtfull/vhh_oas_camel.csv.imgtfull.dedup.csv"
+    ],
+    "n_csv_files": 8,
+    "positions_mode": "vernier",
+    "conditions_mode": "minimal",
+    "filter_truncated": true,
+    "keep_definitional": false,
+    "min_condition_obs": 5000,
+    "min_aa_support": 1000,
+    "min_confidence": 0.7,
+    "min_lift": 1.15,
+    "cluster_min_positions": 12,
+    "mi_max_seqs": 2000000,
+    "mi_top_k": 500,
+    "enable_mi": false,
+    "emit_legacy_pickles": true,
+    "checkpoint_interval": 1000000,
+    "print_every": 200000
+  }
+}

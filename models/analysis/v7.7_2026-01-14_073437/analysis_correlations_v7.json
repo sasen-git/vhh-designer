@@ -1,0 +1,1802 @@
+{
+  "by_family": {
+    "F_C2": {
+      "family": "F_C2",
+      "n_sequences": 3302888,
+      "positions": [
+        {
+          "position_num": 42,
+          "n_obs": 3302888,
+          "n_obs_total": 3302888,
+          "gap_rate": 0.0,
+          "major_aa": "F",
+          "major_freq": 1.0,
+          "entropy": 0.0,
+          "correlations": {}
+        },
+        {
+          "position_num": 49,
+          "n_obs": 3300628,
+          "n_obs_total": 3302888,
+          "gap_rate": 0.0007,
+          "major_aa": "E",
+          "major_freq": 0.858,
+          "entropy": 0.9917,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0197,
+            "cdr3_len_vs_is_positive": 0.0139,
+            "cdr3_charge_vs_is_positive": -0.0191,
+            "cdr3_charge_vs_is_negative": -0.0065,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0064
+          }
+        },
+        {
+          "position_num": 50,
+          "n_obs": 3300058,
+          "n_obs_total": 3302888,
+          "gap_rate": 0.0009,
+          "major_aa": "R",
+          "major_freq": 0.9716,
+          "entropy": 0.2754,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0005,
+            "cdr3_len_vs_is_positive": -0.0032,
+            "cdr3_charge_vs_is_positive": -0.007,
+            "cdr3_charge_vs_is_negative": -0.0011,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0079
+          }
+        },
+        {
+          "position_num": 52,
+          "n_obs": 3301119,
+          "n_obs_total": 3302888,
+          "gap_rate": 0.0005,
+          "major_aa": "G",
+          "major_freq": 0.4777,
+          "entropy": 2.0311,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.11,
+            "cdr3_len_vs_is_positive": 0.0076,
+            "cdr3_charge_vs_is_positive": -0.0014,
+            "cdr3_charge_vs_is_negative": -0.0041,
+            "cdr3_hydro_vs_is_hydrophobic": -0.1102
+          }
+        },
+        {
+          "position_num": 66,
+          "n_obs": 3301320,
+          "n_obs_total": 3302888,
+          "gap_rate": 0.0005,
+          "major_aa": "Y",
+          "major_freq": 0.4056,
+          "entropy": 3.1005,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0585,
+            "cdr3_len_vs_is_positive": 0.031,
+            "cdr3_charge_vs_is_positive": 0.0034,
+            "cdr3_charge_vs_is_negative": 0.0016,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0132
+          }
+        },
+        {
+          "position_num": 67,
+          "n_obs": 3302203,
+          "n_obs_total": 3302888,
+          "gap_rate": 0.0002,
+          "major_aa": "Y",
+          "major_freq": 0.9257,
+          "entropy": 0.6406,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.024,
+            "cdr3_len_vs_is_positive": 0.0165,
+            "cdr3_charge_vs_is_positive": 0.0025,
+            "cdr3_charge_vs_is_negative": -0.0105,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0268
+          }
+        },
+        {
+          "position_num": 68,
+          "n_obs": 3302410,
+          "n_obs_total": 3302888,
+          "gap_rate": 0.0001,
+          "major_aa": "A",
+          "major_freq": 0.7215,
+          "entropy": 1.7603,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0792,
+            "cdr3_len_vs_is_positive": 0.02,
+            "cdr3_charge_vs_is_positive": -0.0072,
+            "cdr3_charge_vs_is_negative": -0.0082,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0285
+          }
+        },
+        {
+          "position_num": 69,
+          "n_obs": 3302392,
+          "n_obs_total": 3302888,
+          "gap_rate": 0.0002,
+          "major_aa": "D",
+          "major_freq": 0.8447,
+          "entropy": 1.0976,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0172,
+            "cdr3_len_vs_is_positive": 0.0158,
+            "cdr3_charge_vs_is_positive": -0.002,
+            "cdr3_charge_vs_is_negative": -0.0051,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0103
+          }
+        },
+        {
+          "position_num": 71,
+          "n_obs": 3301957,
+          "n_obs_total": 3302888,
+          "gap_rate": 0.0003,
+          "major_aa": "V",
+          "major_freq": 0.9126,
+          "entropy": 0.6489,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0202,
+            "cdr3_len_vs_is_positive": 0.0083,
+            "cdr3_charge_vs_is_positive": -0.0052,
+            "cdr3_charge_vs_is_negative": -0.0013,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0004
+          }
+        },
+        {
+          "position_num": 76,
+          "n_obs": 3302796,
+          "n_obs_total": 3302888,
+          "gap_rate": 0.0,
+          "major_aa": "F",
+          "major_freq": 0.9714,
+          "entropy": 0.2658,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0126,
+            "cdr3_len_vs_is_positive": -0.0013,
+            "cdr3_charge_vs_is_positive": 0.0001,
+            "cdr3_charge_vs_is_negative": 0.0001,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0094
+          }
+        },
+        {
+          "position_num": 78,
+          "n_obs": 3302747,
+          "n_obs_total": 3302888,
+          "gap_rate": 0.0,
+          "major_aa": "I",
+          "major_freq": 0.823,
+          "entropy": 1.0243,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0172,
+            "cdr3_len_vs_is_positive": 0.0049,
+            "cdr3_charge_vs_is_positive": -0.0051,
+            "cdr3_charge_vs_is_negative": 0.0035,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0012
+          }
+        },
+        {
+          "position_num": 82,
+          "n_obs": 3290615,
+          "n_obs_total": 3302888,
+          "gap_rate": 0.0037,
+          "major_aa": "N",
+          "major_freq": 0.7761,
+          "entropy": 1.5042,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0316,
+            "cdr3_len_vs_is_positive": 0.0277,
+            "cdr3_charge_vs_is_positive": -0.0143,
+            "cdr3_charge_vs_is_negative": -0.005,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0181
+          }
+        },
+        {
+          "position_num": 87,
+          "n_obs": 3301424,
+          "n_obs_total": 3302888,
+          "gap_rate": 0.0004,
+          "major_aa": "V",
+          "major_freq": 0.7028,
+          "entropy": 1.5048,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0252,
+            "cdr3_len_vs_is_positive": 0.0045,
+            "cdr3_charge_vs_is_positive": -0.0041,
+            "cdr3_charge_vs_is_negative": -0.0011,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0083
+          }
+        },
+        {
+          "position_num": 89,
+          "n_obs": 3302708,
+          "n_obs_total": 3302888,
+          "gap_rate": 0.0001,
+          "major_aa": "L",
+          "major_freq": 0.9745,
+          "entropy": 0.2398,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0161,
+            "cdr3_len_vs_is_positive": 0.0078,
+            "cdr3_charge_vs_is_positive": -0.0104,
+            "cdr3_charge_vs_is_negative": -0.0003,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0005
+          }
+        },
+        {
+          "position_num": 91,
+          "n_obs": 3302715,
+          "n_obs_total": 3302888,
+          "gap_rate": 0.0001,
+          "major_aa": "M",
+          "major_freq": 0.9272,
+          "entropy": 0.5461,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.015,
+            "cdr3_len_vs_is_positive": 0.0157,
+            "cdr3_charge_vs_is_positive": -0.0111,
+            "cdr3_charge_vs_is_negative": 0.0006,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0021
+          }
+        },
+        {
+          "position_num": 94,
+          "n_obs": 3302756,
+          "n_obs_total": 3302888,
+          "gap_rate": 0.0,
+          "major_aa": "L",
+          "major_freq": 0.9635,
+          "entropy": 0.3242,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0119,
+            "cdr3_len_vs_is_positive": 0.0037,
+            "cdr3_charge_vs_is_positive": -0.0125,
+            "cdr3_charge_vs_is_negative": 0.0001,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0044
+          }
+        }
+      ]
+    },
+    "Y_C2": {
+      "family": "Y_C2",
+      "n_sequences": 1648177,
+      "positions": [
+        {
+          "position_num": 42,
+          "n_obs": 1648177,
+          "n_obs_total": 1648177,
+          "gap_rate": 0.0,
+          "major_aa": "Y",
+          "major_freq": 1.0,
+          "entropy": 0.0,
+          "correlations": {}
+        },
+        {
+          "position_num": 49,
+          "n_obs": 1647792,
+          "n_obs_total": 1648177,
+          "gap_rate": 0.0002,
+          "major_aa": "Q",
+          "major_freq": 0.7014,
+          "entropy": 1.3639,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0028,
+            "cdr3_len_vs_is_positive": 0.0209,
+            "cdr3_charge_vs_is_positive": 0.0098,
+            "cdr3_charge_vs_is_negative": -0.0964,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0212
+          }
+        },
+        {
+          "position_num": 50,
+          "n_obs": 1647178,
+          "n_obs_total": 1648177,
+          "gap_rate": 0.0006,
+          "major_aa": "R",
+          "major_freq": 0.9701,
+          "entropy": 0.2634,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0121,
+            "cdr3_len_vs_is_positive": 0.0145,
+            "cdr3_charge_vs_is_positive": -0.0265,
+            "cdr3_charge_vs_is_negative": 0.0017,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0424
+          }
+        },
+        {
+          "position_num": 52,
+          "n_obs": 1647644,
+          "n_obs_total": 1648177,
+          "gap_rate": 0.0003,
+          "major_aa": "L",
+          "major_freq": 0.8368,
+          "entropy": 1.1057,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0361,
+            "cdr3_len_vs_is_positive": -0.0044,
+            "cdr3_charge_vs_is_positive": 0.015,
+            "cdr3_charge_vs_is_negative": 0.0157,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0344
+          }
+        },
+        {
+          "position_num": 66,
+          "n_obs": 1647846,
+          "n_obs_total": 1648177,
+          "gap_rate": 0.0002,
+          "major_aa": "N",
+          "major_freq": 0.5647,
+          "entropy": 2.4253,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0247,
+            "cdr3_len_vs_is_positive": 0.0302,
+            "cdr3_charge_vs_is_positive": -0.0139,
+            "cdr3_charge_vs_is_negative": 0.0339,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0377
+          }
+        },
+        {
+          "position_num": 67,
+          "n_obs": 1647920,
+          "n_obs_total": 1648177,
+          "gap_rate": 0.0002,
+          "major_aa": "Y",
+          "major_freq": 0.9536,
+          "entropy": 0.4266,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0057,
+            "cdr3_len_vs_is_positive": 0.0196,
+            "cdr3_charge_vs_is_positive": 0.019,
+            "cdr3_charge_vs_is_negative": -0.0087,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0371
+          }
+        },
+        {
+          "position_num": 68,
+          "n_obs": 1648042,
+          "n_obs_total": 1648177,
+          "gap_rate": 0.0001,
+          "major_aa": "A",
+          "major_freq": 0.8337,
+          "entropy": 1.1778,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0224,
+            "cdr3_len_vs_is_positive": 0.0162,
+            "cdr3_charge_vs_is_positive": 0.0259,
+            "cdr3_charge_vs_is_negative": 0.0137,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0441
+          }
+        },
+        {
+          "position_num": 69,
+          "n_obs": 1647864,
+          "n_obs_total": 1648177,
+          "gap_rate": 0.0002,
+          "major_aa": "D",
+          "major_freq": 0.8859,
+          "entropy": 0.8449,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0002,
+            "cdr3_len_vs_is_positive": 0.0118,
+            "cdr3_charge_vs_is_positive": 0.0037,
+            "cdr3_charge_vs_is_negative": -0.0324,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0012
+          }
+        },
+        {
+          "position_num": 71,
+          "n_obs": 1647290,
+          "n_obs_total": 1648177,
+          "gap_rate": 0.0005,
+          "major_aa": "V",
+          "major_freq": 0.9325,
+          "entropy": 0.516,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.004,
+            "cdr3_len_vs_is_positive": 0.0038,
+            "cdr3_charge_vs_is_positive": 0.0047,
+            "cdr3_charge_vs_is_negative": -0.0028,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0031
+          }
+        },
+        {
+          "position_num": 76,
+          "n_obs": 1648145,
+          "n_obs_total": 1648177,
+          "gap_rate": 0.0,
+          "major_aa": "F",
+          "major_freq": 0.9727,
+          "entropy": 0.2545,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0067,
+            "cdr3_len_vs_is_positive": 0.0008,
+            "cdr3_charge_vs_is_positive": 0.0021,
+            "cdr3_charge_vs_is_negative": 0.0017,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0103
+          }
+        },
+        {
+          "position_num": 78,
+          "n_obs": 1648136,
+          "n_obs_total": 1648177,
+          "gap_rate": 0.0,
+          "major_aa": "I",
+          "major_freq": 0.9273,
+          "entropy": 0.5656,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0076,
+            "cdr3_len_vs_is_positive": -0.0197,
+            "cdr3_charge_vs_is_positive": -0.0068,
+            "cdr3_charge_vs_is_negative": 0.0012,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0187
+          }
+        },
+        {
+          "position_num": 82,
+          "n_obs": 1643193,
+          "n_obs_total": 1648177,
+          "gap_rate": 0.003,
+          "major_aa": "N",
+          "major_freq": 0.8471,
+          "entropy": 1.1335,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0266,
+            "cdr3_len_vs_is_positive": -0.0005,
+            "cdr3_charge_vs_is_positive": 0.0171,
+            "cdr3_charge_vs_is_negative": 0.0273,
+            "cdr3_hydro_vs_is_hydrophobic": 0.027
+          }
+        },
+        {
+          "position_num": 87,
+          "n_obs": 1647781,
+          "n_obs_total": 1648177,
+          "gap_rate": 0.0002,
+          "major_aa": "V",
+          "major_freq": 0.7405,
+          "entropy": 1.3811,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0217,
+            "cdr3_len_vs_is_positive": 0.017,
+            "cdr3_charge_vs_is_positive": -0.037,
+            "cdr3_charge_vs_is_negative": -0.0028,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0077
+          }
+        },
+        {
+          "position_num": 89,
+          "n_obs": 1647938,
+          "n_obs_total": 1648177,
+          "gap_rate": 0.0001,
+          "major_aa": "L",
+          "major_freq": 0.9797,
+          "entropy": 0.1942,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0001,
+            "cdr3_len_vs_is_positive": -0.0017,
+            "cdr3_charge_vs_is_positive": 0.0067,
+            "cdr3_charge_vs_is_negative": 0.0,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0057
+          }
+        },
+        {
+          "position_num": 91,
+          "n_obs": 1648118,
+          "n_obs_total": 1648177,
+          "gap_rate": 0.0,
+          "major_aa": "M",
+          "major_freq": 0.9579,
+          "entropy": 0.3586,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0084,
+            "cdr3_len_vs_is_positive": -0.0104,
+            "cdr3_charge_vs_is_positive": 0.0121,
+            "cdr3_charge_vs_is_negative": 0.0025,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0005
+          }
+        },
+        {
+          "position_num": 94,
+          "n_obs": 1648125,
+          "n_obs_total": 1648177,
+          "gap_rate": 0.0,
+          "major_aa": "L",
+          "major_freq": 0.9702,
+          "entropy": 0.2703,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0091,
+            "cdr3_len_vs_is_positive": -0.0137,
+            "cdr3_charge_vs_is_positive": 0.0038,
+            "cdr3_charge_vs_is_negative": 0.0014,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0011
+          }
+        }
+      ]
+    },
+    "VH_like": {
+      "family": "VH_like",
+      "n_sequences": 1682416,
+      "positions": [
+        {
+          "position_num": 42,
+          "n_obs": 1682379,
+          "n_obs_total": 1682416,
+          "gap_rate": 0.0,
+          "major_aa": "V",
+          "major_freq": 0.8171,
+          "entropy": 1.1365,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0135,
+            "cdr3_len_vs_is_positive": -0.0073,
+            "cdr3_charge_vs_is_positive": 0.0007,
+            "cdr3_charge_vs_is_negative": 0.0048,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0138
+          }
+        },
+        {
+          "position_num": 49,
+          "n_obs": 1682232,
+          "n_obs_total": 1682416,
+          "gap_rate": 0.0001,
+          "major_aa": "G",
+          "major_freq": 0.9081,
+          "entropy": 0.6796,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.1453,
+            "cdr3_len_vs_is_positive": 0.0153,
+            "cdr3_charge_vs_is_positive": -0.0073,
+            "cdr3_charge_vs_is_negative": 0.002,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0752
+          }
+        },
+        {
+          "position_num": 50,
+          "n_obs": 1682416,
+          "n_obs_total": 1682416,
+          "gap_rate": 0.0,
+          "major_aa": "L",
+          "major_freq": 1.0,
+          "entropy": 0.0,
+          "correlations": {}
+        },
+        {
+          "position_num": 52,
+          "n_obs": 1682029,
+          "n_obs_total": 1682416,
+          "gap_rate": 0.0002,
+          "major_aa": "W",
+          "major_freq": 0.9266,
+          "entropy": 0.5976,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0214,
+            "cdr3_len_vs_is_positive": 0.0191,
+            "cdr3_charge_vs_is_positive": -0.0319,
+            "cdr3_charge_vs_is_negative": 0.0027,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0258
+          }
+        },
+        {
+          "position_num": 66,
+          "n_obs": 1681966,
+          "n_obs_total": 1682416,
+          "gap_rate": 0.0003,
+          "major_aa": "Y",
+          "major_freq": 0.5897,
+          "entropy": 2.5076,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0225,
+            "cdr3_len_vs_is_positive": 0.0356,
+            "cdr3_charge_vs_is_positive": 0.0246,
+            "cdr3_charge_vs_is_negative": -0.0252,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0064
+          }
+        },
+        {
+          "position_num": 67,
+          "n_obs": 1682172,
+          "n_obs_total": 1682416,
+          "gap_rate": 0.0001,
+          "major_aa": "Y",
+          "major_freq": 0.9341,
+          "entropy": 0.576,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0013,
+            "cdr3_len_vs_is_positive": 0.0303,
+            "cdr3_charge_vs_is_positive": -0.0246,
+            "cdr3_charge_vs_is_negative": -0.0,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0221
+          }
+        },
+        {
+          "position_num": 68,
+          "n_obs": 1682078,
+          "n_obs_total": 1682416,
+          "gap_rate": 0.0002,
+          "major_aa": "A",
+          "major_freq": 0.7455,
+          "entropy": 1.6303,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.047,
+            "cdr3_len_vs_is_positive": 0.0119,
+            "cdr3_charge_vs_is_positive": 0.0119,
+            "cdr3_charge_vs_is_negative": 0.0092,
+            "cdr3_hydro_vs_is_hydrophobic": 0.012
+          }
+        },
+        {
+          "position_num": 69,
+          "n_obs": 1682076,
+          "n_obs_total": 1682416,
+          "gap_rate": 0.0002,
+          "major_aa": "D",
+          "major_freq": 0.815,
+          "entropy": 1.1762,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.05,
+            "cdr3_len_vs_is_positive": 0.0169,
+            "cdr3_charge_vs_is_positive": -0.0153,
+            "cdr3_charge_vs_is_negative": -0.0036,
+            "cdr3_hydro_vs_is_hydrophobic": -0.013
+          }
+        },
+        {
+          "position_num": 71,
+          "n_obs": 1682126,
+          "n_obs_total": 1682416,
+          "gap_rate": 0.0002,
+          "major_aa": "V",
+          "major_freq": 0.8663,
+          "entropy": 0.8586,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0129,
+            "cdr3_len_vs_is_positive": 0.0129,
+            "cdr3_charge_vs_is_positive": -0.0135,
+            "cdr3_charge_vs_is_negative": -0.0024,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0122
+          }
+        },
+        {
+          "position_num": 76,
+          "n_obs": 1682387,
+          "n_obs_total": 1682416,
+          "gap_rate": 0.0,
+          "major_aa": "F",
+          "major_freq": 0.9589,
+          "entropy": 0.3711,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0253,
+            "cdr3_len_vs_is_positive": -0.019,
+            "cdr3_charge_vs_is_positive": -0.0113,
+            "cdr3_charge_vs_is_negative": 0.0006,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0246
+          }
+        },
+        {
+          "position_num": 78,
+          "n_obs": 1682373,
+          "n_obs_total": 1682416,
+          "gap_rate": 0.0,
+          "major_aa": "I",
+          "major_freq": 0.8818,
+          "entropy": 0.8367,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0071,
+            "cdr3_len_vs_is_positive": 0.0028,
+            "cdr3_charge_vs_is_positive": -0.0008,
+            "cdr3_charge_vs_is_negative": 0.0022,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0424
+          }
+        },
+        {
+          "position_num": 82,
+          "n_obs": 1680490,
+          "n_obs_total": 1682416,
+          "gap_rate": 0.0011,
+          "major_aa": "N",
+          "major_freq": 0.8714,
+          "entropy": 0.9602,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0186,
+            "cdr3_len_vs_is_positive": 0.021,
+            "cdr3_charge_vs_is_positive": 0.0038,
+            "cdr3_charge_vs_is_negative": 0.032,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0188
+          }
+        },
+        {
+          "position_num": 87,
+          "n_obs": 1681658,
+          "n_obs_total": 1682416,
+          "gap_rate": 0.0005,
+          "major_aa": "L",
+          "major_freq": 0.5364,
+          "entropy": 1.5091,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0026,
+            "cdr3_len_vs_is_positive": 0.0016,
+            "cdr3_charge_vs_is_positive": -0.0014,
+            "cdr3_charge_vs_is_negative": 0.0007,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0077
+          }
+        },
+        {
+          "position_num": 89,
+          "n_obs": 1682355,
+          "n_obs_total": 1682416,
+          "gap_rate": 0.0,
+          "major_aa": "L",
+          "major_freq": 0.9794,
+          "entropy": 0.1995,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0075,
+            "cdr3_len_vs_is_positive": -0.0071,
+            "cdr3_charge_vs_is_positive": 0.005,
+            "cdr3_charge_vs_is_negative": -0.0008,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0247
+          }
+        },
+        {
+          "position_num": 91,
+          "n_obs": 1682359,
+          "n_obs_total": 1682416,
+          "gap_rate": 0.0,
+          "major_aa": "M",
+          "major_freq": 0.8488,
+          "entropy": 0.8362,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0177,
+            "cdr3_len_vs_is_positive": -0.0171,
+            "cdr3_charge_vs_is_positive": 0.0093,
+            "cdr3_charge_vs_is_negative": 0.0005,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0115
+          }
+        },
+        {
+          "position_num": 94,
+          "n_obs": 1682364,
+          "n_obs_total": 1682416,
+          "gap_rate": 0.0,
+          "major_aa": "L",
+          "major_freq": 0.9581,
+          "entropy": 0.3614,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0036,
+            "cdr3_len_vs_is_positive": -0.0027,
+            "cdr3_charge_vs_is_positive": 0.0006,
+            "cdr3_charge_vs_is_negative": -0.0032,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0201
+          }
+        }
+      ]
+    },
+    "F_C4": {
+      "family": "F_C4",
+      "n_sequences": 3397253,
+      "positions": [
+        {
+          "position_num": 42,
+          "n_obs": 3397253,
+          "n_obs_total": 3397253,
+          "gap_rate": 0.0,
+          "major_aa": "F",
+          "major_freq": 1.0,
+          "entropy": 0.0,
+          "correlations": {}
+        },
+        {
+          "position_num": 49,
+          "n_obs": 3394476,
+          "n_obs_total": 3397253,
+          "gap_rate": 0.0008,
+          "major_aa": "E",
+          "major_freq": 0.8413,
+          "entropy": 1.0846,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0084,
+            "cdr3_len_vs_is_positive": 0.001,
+            "cdr3_charge_vs_is_positive": 0.0212,
+            "cdr3_charge_vs_is_negative": -0.0358,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0772
+          }
+        },
+        {
+          "position_num": 50,
+          "n_obs": 3393541,
+          "n_obs_total": 3397253,
+          "gap_rate": 0.0011,
+          "major_aa": "R",
+          "major_freq": 0.952,
+          "entropy": 0.4255,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0203,
+            "cdr3_len_vs_is_positive": 0.0108,
+            "cdr3_charge_vs_is_positive": 0.004,
+            "cdr3_charge_vs_is_negative": -0.0122,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0092
+          }
+        },
+        {
+          "position_num": 52,
+          "n_obs": 3394213,
+          "n_obs_total": 3397253,
+          "gap_rate": 0.0009,
+          "major_aa": "G",
+          "major_freq": 0.7655,
+          "entropy": 1.4952,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0629,
+            "cdr3_len_vs_is_positive": 0.0051,
+            "cdr3_charge_vs_is_positive": -0.0024,
+            "cdr3_charge_vs_is_negative": 0.0369,
+            "cdr3_hydro_vs_is_hydrophobic": -0.058
+          }
+        },
+        {
+          "position_num": 66,
+          "n_obs": 3392661,
+          "n_obs_total": 3397253,
+          "gap_rate": 0.0014,
+          "major_aa": "N",
+          "major_freq": 0.2514,
+          "entropy": 3.3812,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0044,
+            "cdr3_len_vs_is_positive": 0.0167,
+            "cdr3_charge_vs_is_positive": 0.0325,
+            "cdr3_charge_vs_is_negative": 0.0097,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0291
+          }
+        },
+        {
+          "position_num": 67,
+          "n_obs": 3395808,
+          "n_obs_total": 3397253,
+          "gap_rate": 0.0004,
+          "major_aa": "Y",
+          "major_freq": 0.874,
+          "entropy": 0.9692,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0112,
+            "cdr3_len_vs_is_positive": 0.003,
+            "cdr3_charge_vs_is_positive": 0.0184,
+            "cdr3_charge_vs_is_negative": -0.0062,
+            "cdr3_hydro_vs_is_hydrophobic": 0.1183
+          }
+        },
+        {
+          "position_num": 68,
+          "n_obs": 3396151,
+          "n_obs_total": 3397253,
+          "gap_rate": 0.0003,
+          "major_aa": "A",
+          "major_freq": 0.6272,
+          "entropy": 2.2067,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0215,
+            "cdr3_len_vs_is_positive": 0.0038,
+            "cdr3_charge_vs_is_positive": -0.0056,
+            "cdr3_charge_vs_is_negative": -0.0567,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0198
+          }
+        },
+        {
+          "position_num": 69,
+          "n_obs": 3396291,
+          "n_obs_total": 3397253,
+          "gap_rate": 0.0003,
+          "major_aa": "D",
+          "major_freq": 0.8344,
+          "entropy": 1.1773,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0025,
+            "cdr3_len_vs_is_positive": 0.002,
+            "cdr3_charge_vs_is_positive": 0.0047,
+            "cdr3_charge_vs_is_negative": -0.0206,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0164
+          }
+        },
+        {
+          "position_num": 71,
+          "n_obs": 3396074,
+          "n_obs_total": 3397253,
+          "gap_rate": 0.0003,
+          "major_aa": "V",
+          "major_freq": 0.8853,
+          "entropy": 0.7863,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0089,
+            "cdr3_len_vs_is_positive": 0.0023,
+            "cdr3_charge_vs_is_positive": -0.0083,
+            "cdr3_charge_vs_is_negative": -0.0005,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0032
+          }
+        },
+        {
+          "position_num": 76,
+          "n_obs": 3397195,
+          "n_obs_total": 3397253,
+          "gap_rate": 0.0,
+          "major_aa": "F",
+          "major_freq": 0.9663,
+          "entropy": 0.3077,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0025,
+            "cdr3_len_vs_is_positive": 0.0005,
+            "cdr3_charge_vs_is_positive": 0.0062,
+            "cdr3_charge_vs_is_negative": 0.0011,
+            "cdr3_hydro_vs_is_hydrophobic": -0.004
+          }
+        },
+        {
+          "position_num": 78,
+          "n_obs": 3396927,
+          "n_obs_total": 3397253,
+          "gap_rate": 0.0001,
+          "major_aa": "I",
+          "major_freq": 0.7938,
+          "entropy": 1.1943,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0123,
+            "cdr3_len_vs_is_positive": 0.0017,
+            "cdr3_charge_vs_is_positive": -0.0025,
+            "cdr3_charge_vs_is_negative": -0.0039,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0279
+          }
+        },
+        {
+          "position_num": 82,
+          "n_obs": 3381921,
+          "n_obs_total": 3397253,
+          "gap_rate": 0.0045,
+          "major_aa": "N",
+          "major_freq": 0.6937,
+          "entropy": 1.9076,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0051,
+            "cdr3_len_vs_is_positive": 0.0029,
+            "cdr3_charge_vs_is_positive": -0.007,
+            "cdr3_charge_vs_is_negative": 0.0333,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0007
+          }
+        },
+        {
+          "position_num": 87,
+          "n_obs": 3396295,
+          "n_obs_total": 3397253,
+          "gap_rate": 0.0003,
+          "major_aa": "V",
+          "major_freq": 0.7028,
+          "entropy": 1.5675,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.006,
+            "cdr3_len_vs_is_positive": 0.0018,
+            "cdr3_charge_vs_is_positive": 0.0089,
+            "cdr3_charge_vs_is_negative": 0.0138,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0162
+          }
+        },
+        {
+          "position_num": 89,
+          "n_obs": 3397117,
+          "n_obs_total": 3397253,
+          "gap_rate": 0.0,
+          "major_aa": "L",
+          "major_freq": 0.9786,
+          "entropy": 0.2091,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0008,
+            "cdr3_len_vs_is_positive": 0.0007,
+            "cdr3_charge_vs_is_positive": -0.0053,
+            "cdr3_charge_vs_is_negative": -0.0006,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0041
+          }
+        },
+        {
+          "position_num": 91,
+          "n_obs": 3397097,
+          "n_obs_total": 3397253,
+          "gap_rate": 0.0,
+          "major_aa": "M",
+          "major_freq": 0.9017,
+          "entropy": 0.6575,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0017,
+            "cdr3_len_vs_is_positive": 0.0015,
+            "cdr3_charge_vs_is_positive": -0.0072,
+            "cdr3_charge_vs_is_negative": 0.0007,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0019
+          }
+        },
+        {
+          "position_num": 94,
+          "n_obs": 3397147,
+          "n_obs_total": 3397253,
+          "gap_rate": 0.0,
+          "major_aa": "L",
+          "major_freq": 0.9599,
+          "entropy": 0.3515,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.001,
+            "cdr3_len_vs_is_positive": -0.0007,
+            "cdr3_charge_vs_is_positive": -0.009,
+            "cdr3_charge_vs_is_negative": -0.0008,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0023
+          }
+        }
+      ]
+    },
+    "VHH_W52": {
+      "family": "VHH_W52",
+      "n_sequences": 504167,
+      "positions": [
+        {
+          "position_num": 42,
+          "n_obs": 504128,
+          "n_obs_total": 504167,
+          "gap_rate": 0.0001,
+          "major_aa": "V",
+          "major_freq": 0.4505,
+          "entropy": 2.0354,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0474,
+            "cdr3_len_vs_is_positive": -0.0135,
+            "cdr3_charge_vs_is_positive": 0.0054,
+            "cdr3_charge_vs_is_negative": -0.0158,
+            "cdr3_hydro_vs_is_hydrophobic": 0.1008
+          }
+        },
+        {
+          "position_num": 49,
+          "n_obs": 503994,
+          "n_obs_total": 504167,
+          "gap_rate": 0.0003,
+          "major_aa": "G",
+          "major_freq": 0.4696,
+          "entropy": 1.7463,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0002,
+            "cdr3_len_vs_is_positive": 0.0039,
+            "cdr3_charge_vs_is_positive": 0.0043,
+            "cdr3_charge_vs_is_negative": -0.0252,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0024
+          }
+        },
+        {
+          "position_num": 50,
+          "n_obs": 503667,
+          "n_obs_total": 504167,
+          "gap_rate": 0.001,
+          "major_aa": "R",
+          "major_freq": 0.4922,
+          "entropy": 2.0826,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.1939,
+            "cdr3_len_vs_is_positive": 0.1456,
+            "cdr3_charge_vs_is_positive": -0.071,
+            "cdr3_charge_vs_is_negative": -0.0024,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0317
+          }
+        },
+        {
+          "position_num": 52,
+          "n_obs": 504167,
+          "n_obs_total": 504167,
+          "gap_rate": 0.0,
+          "major_aa": "W",
+          "major_freq": 1.0,
+          "entropy": 0.0,
+          "correlations": {}
+        },
+        {
+          "position_num": 66,
+          "n_obs": 504054,
+          "n_obs_total": 504167,
+          "gap_rate": 0.0002,
+          "major_aa": "Y",
+          "major_freq": 0.3358,
+          "entropy": 3.2828,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0051,
+            "cdr3_len_vs_is_positive": 0.0525,
+            "cdr3_charge_vs_is_positive": 0.0852,
+            "cdr3_charge_vs_is_negative": -0.0992,
+            "cdr3_hydro_vs_is_hydrophobic": 0.1838
+          }
+        },
+        {
+          "position_num": 67,
+          "n_obs": 504099,
+          "n_obs_total": 504167,
+          "gap_rate": 0.0001,
+          "major_aa": "Y",
+          "major_freq": 0.9359,
+          "entropy": 0.5678,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0225,
+            "cdr3_len_vs_is_positive": -0.005,
+            "cdr3_charge_vs_is_positive": -0.0098,
+            "cdr3_charge_vs_is_negative": -0.0009,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0068
+          }
+        },
+        {
+          "position_num": 68,
+          "n_obs": 504101,
+          "n_obs_total": 504167,
+          "gap_rate": 0.0001,
+          "major_aa": "A",
+          "major_freq": 0.6761,
+          "entropy": 1.9701,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0592,
+            "cdr3_len_vs_is_positive": 0.0749,
+            "cdr3_charge_vs_is_positive": -0.1424,
+            "cdr3_charge_vs_is_negative": 0.0218,
+            "cdr3_hydro_vs_is_hydrophobic": -0.016
+          }
+        },
+        {
+          "position_num": 69,
+          "n_obs": 504089,
+          "n_obs_total": 504167,
+          "gap_rate": 0.0002,
+          "major_aa": "D",
+          "major_freq": 0.8283,
+          "entropy": 1.1938,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0126,
+            "cdr3_len_vs_is_positive": 0.02,
+            "cdr3_charge_vs_is_positive": -0.0052,
+            "cdr3_charge_vs_is_negative": -0.0373,
+            "cdr3_hydro_vs_is_hydrophobic": -0.044
+          }
+        },
+        {
+          "position_num": 71,
+          "n_obs": 504097,
+          "n_obs_total": 504167,
+          "gap_rate": 0.0001,
+          "major_aa": "V",
+          "major_freq": 0.8694,
+          "entropy": 0.9189,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0821,
+            "cdr3_len_vs_is_positive": 0.01,
+            "cdr3_charge_vs_is_positive": 0.0085,
+            "cdr3_charge_vs_is_negative": -0.1794,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0763
+          }
+        },
+        {
+          "position_num": 76,
+          "n_obs": 504147,
+          "n_obs_total": 504167,
+          "gap_rate": 0.0,
+          "major_aa": "F",
+          "major_freq": 0.9604,
+          "entropy": 0.3578,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0029,
+            "cdr3_len_vs_is_positive": -0.0074,
+            "cdr3_charge_vs_is_positive": -0.0034,
+            "cdr3_charge_vs_is_negative": -0.0041,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0284
+          }
+        },
+        {
+          "position_num": 78,
+          "n_obs": 504139,
+          "n_obs_total": 504167,
+          "gap_rate": 0.0001,
+          "major_aa": "I",
+          "major_freq": 0.8654,
+          "entropy": 0.9061,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0137,
+            "cdr3_len_vs_is_positive": -0.0001,
+            "cdr3_charge_vs_is_positive": -0.003,
+            "cdr3_charge_vs_is_negative": 0.0318,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0337
+          }
+        },
+        {
+          "position_num": 82,
+          "n_obs": 503459,
+          "n_obs_total": 504167,
+          "gap_rate": 0.0014,
+          "major_aa": "N",
+          "major_freq": 0.8044,
+          "entropy": 1.2898,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0248,
+            "cdr3_len_vs_is_positive": 0.0296,
+            "cdr3_charge_vs_is_positive": 0.0179,
+            "cdr3_charge_vs_is_negative": -0.0552,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0273
+          }
+        },
+        {
+          "position_num": 87,
+          "n_obs": 503973,
+          "n_obs_total": 504167,
+          "gap_rate": 0.0004,
+          "major_aa": "V",
+          "major_freq": 0.5012,
+          "entropy": 1.6725,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0029,
+            "cdr3_len_vs_is_positive": -0.0084,
+            "cdr3_charge_vs_is_positive": 0.0044,
+            "cdr3_charge_vs_is_negative": -0.0047,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0192
+          }
+        },
+        {
+          "position_num": 89,
+          "n_obs": 504140,
+          "n_obs_total": 504167,
+          "gap_rate": 0.0001,
+          "major_aa": "L",
+          "major_freq": 0.9771,
+          "entropy": 0.221,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0213,
+            "cdr3_len_vs_is_positive": -0.0173,
+            "cdr3_charge_vs_is_positive": 0.0047,
+            "cdr3_charge_vs_is_negative": 0.001,
+            "cdr3_hydro_vs_is_hydrophobic": 0.016
+          }
+        },
+        {
+          "position_num": 91,
+          "n_obs": 504135,
+          "n_obs_total": 504167,
+          "gap_rate": 0.0001,
+          "major_aa": "M",
+          "major_freq": 0.9006,
+          "entropy": 0.6835,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0967,
+            "cdr3_len_vs_is_positive": -0.0141,
+            "cdr3_charge_vs_is_positive": 0.0083,
+            "cdr3_charge_vs_is_negative": -0.0022,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0034
+          }
+        },
+        {
+          "position_num": 94,
+          "n_obs": 504138,
+          "n_obs_total": 504167,
+          "gap_rate": 0.0001,
+          "major_aa": "L",
+          "major_freq": 0.9579,
+          "entropy": 0.3655,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0205,
+            "cdr3_len_vs_is_positive": -0.0178,
+            "cdr3_charge_vs_is_positive": 0.0074,
+            "cdr3_charge_vs_is_negative": -0.0004,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0139
+          }
+        }
+      ]
+    },
+    "Other_VHH": {
+      "family": "Other_VHH",
+      "n_sequences": 594295,
+      "positions": [
+        {
+          "position_num": 42,
+          "n_obs": 593843,
+          "n_obs_total": 594295,
+          "gap_rate": 0.0008,
+          "major_aa": "V",
+          "major_freq": 0.3942,
+          "entropy": 2.7361,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0983,
+            "cdr3_len_vs_is_positive": -0.0727,
+            "cdr3_charge_vs_is_positive": 0.0359,
+            "cdr3_charge_vs_is_negative": -0.0137,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0996
+          }
+        },
+        {
+          "position_num": 49,
+          "n_obs": 593634,
+          "n_obs_total": 594295,
+          "gap_rate": 0.0011,
+          "major_aa": "E",
+          "major_freq": 0.6232,
+          "entropy": 1.8218,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0387,
+            "cdr3_len_vs_is_positive": 0.0025,
+            "cdr3_charge_vs_is_positive": 0.0126,
+            "cdr3_charge_vs_is_negative": 0.0603,
+            "cdr3_hydro_vs_is_hydrophobic": -0.042
+          }
+        },
+        {
+          "position_num": 50,
+          "n_obs": 593298,
+          "n_obs_total": 594295,
+          "gap_rate": 0.0017,
+          "major_aa": "R",
+          "major_freq": 0.9045,
+          "entropy": 0.7604,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0629,
+            "cdr3_len_vs_is_positive": 0.0397,
+            "cdr3_charge_vs_is_positive": -0.0405,
+            "cdr3_charge_vs_is_negative": 0.0163,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0074
+          }
+        },
+        {
+          "position_num": 52,
+          "n_obs": 593232,
+          "n_obs_total": 594295,
+          "gap_rate": 0.0018,
+          "major_aa": "G",
+          "major_freq": 0.5117,
+          "entropy": 2.2969,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.2395,
+            "cdr3_len_vs_is_positive": 0.0031,
+            "cdr3_charge_vs_is_positive": 0.0132,
+            "cdr3_charge_vs_is_negative": 0.0165,
+            "cdr3_hydro_vs_is_hydrophobic": -0.1753
+          }
+        },
+        {
+          "position_num": 66,
+          "n_obs": 593807,
+          "n_obs_total": 594295,
+          "gap_rate": 0.0008,
+          "major_aa": "Y",
+          "major_freq": 0.2585,
+          "entropy": 3.3544,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0427,
+            "cdr3_len_vs_is_positive": 0.0325,
+            "cdr3_charge_vs_is_positive": -0.0263,
+            "cdr3_charge_vs_is_negative": -0.0065,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0171
+          }
+        },
+        {
+          "position_num": 67,
+          "n_obs": 593989,
+          "n_obs_total": 594295,
+          "gap_rate": 0.0005,
+          "major_aa": "Y",
+          "major_freq": 0.8997,
+          "entropy": 0.798,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0599,
+            "cdr3_len_vs_is_positive": 0.0132,
+            "cdr3_charge_vs_is_positive": 0.0197,
+            "cdr3_charge_vs_is_negative": -0.0078,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0344
+          }
+        },
+        {
+          "position_num": 68,
+          "n_obs": 594171,
+          "n_obs_total": 594295,
+          "gap_rate": 0.0002,
+          "major_aa": "A",
+          "major_freq": 0.6835,
+          "entropy": 1.9581,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0627,
+            "cdr3_len_vs_is_positive": 0.0188,
+            "cdr3_charge_vs_is_positive": 0.016,
+            "cdr3_charge_vs_is_negative": -0.0284,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0585
+          }
+        },
+        {
+          "position_num": 69,
+          "n_obs": 594024,
+          "n_obs_total": 594295,
+          "gap_rate": 0.0005,
+          "major_aa": "D",
+          "major_freq": 0.8121,
+          "entropy": 1.2707,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0315,
+            "cdr3_len_vs_is_positive": 0.0218,
+            "cdr3_charge_vs_is_positive": 0.0209,
+            "cdr3_charge_vs_is_negative": 0.0596,
+            "cdr3_hydro_vs_is_hydrophobic": -0.008
+          }
+        },
+        {
+          "position_num": 71,
+          "n_obs": 594126,
+          "n_obs_total": 594295,
+          "gap_rate": 0.0003,
+          "major_aa": "V",
+          "major_freq": 0.899,
+          "entropy": 0.7184,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0252,
+            "cdr3_len_vs_is_positive": 0.0088,
+            "cdr3_charge_vs_is_positive": -0.0174,
+            "cdr3_charge_vs_is_negative": -0.0001,
+            "cdr3_hydro_vs_is_hydrophobic": -0.005
+          }
+        },
+        {
+          "position_num": 76,
+          "n_obs": 594238,
+          "n_obs_total": 594295,
+          "gap_rate": 0.0001,
+          "major_aa": "F",
+          "major_freq": 0.9651,
+          "entropy": 0.3153,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0063,
+            "cdr3_len_vs_is_positive": -0.0041,
+            "cdr3_charge_vs_is_positive": 0.0006,
+            "cdr3_charge_vs_is_negative": 0.0003,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0032
+          }
+        },
+        {
+          "position_num": 78,
+          "n_obs": 594223,
+          "n_obs_total": 594295,
+          "gap_rate": 0.0001,
+          "major_aa": "I",
+          "major_freq": 0.8323,
+          "entropy": 1.0258,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0176,
+            "cdr3_len_vs_is_positive": -0.0011,
+            "cdr3_charge_vs_is_positive": -0.0081,
+            "cdr3_charge_vs_is_negative": 0.0008,
+            "cdr3_hydro_vs_is_hydrophobic": 0.004
+          }
+        },
+        {
+          "position_num": 82,
+          "n_obs": 592382,
+          "n_obs_total": 594295,
+          "gap_rate": 0.0032,
+          "major_aa": "N",
+          "major_freq": 0.7529,
+          "entropy": 1.63,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.035,
+            "cdr3_len_vs_is_positive": 0.04,
+            "cdr3_charge_vs_is_positive": 0.0237,
+            "cdr3_charge_vs_is_negative": 0.0242,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0126
+          }
+        },
+        {
+          "position_num": 87,
+          "n_obs": 594074,
+          "n_obs_total": 594295,
+          "gap_rate": 0.0004,
+          "major_aa": "V",
+          "major_freq": 0.6555,
+          "entropy": 1.6208,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0196,
+            "cdr3_len_vs_is_positive": -0.0009,
+            "cdr3_charge_vs_is_positive": 0.0022,
+            "cdr3_charge_vs_is_negative": -0.0057,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0177
+          }
+        },
+        {
+          "position_num": 89,
+          "n_obs": 594230,
+          "n_obs_total": 594295,
+          "gap_rate": 0.0001,
+          "major_aa": "L",
+          "major_freq": 0.9777,
+          "entropy": 0.2183,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0068,
+            "cdr3_len_vs_is_positive": -0.0075,
+            "cdr3_charge_vs_is_positive": -0.0025,
+            "cdr3_charge_vs_is_negative": -0.0,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0049
+          }
+        },
+        {
+          "position_num": 91,
+          "n_obs": 594231,
+          "n_obs_total": 594295,
+          "gap_rate": 0.0001,
+          "major_aa": "M",
+          "major_freq": 0.9183,
+          "entropy": 0.5806,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0154,
+            "cdr3_len_vs_is_positive": -0.0108,
+            "cdr3_charge_vs_is_positive": 0.0003,
+            "cdr3_charge_vs_is_negative": -0.0013,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0023
+          }
+        },
+        {
+          "position_num": 94,
+          "n_obs": 594241,
+          "n_obs_total": 594295,
+          "gap_rate": 0.0001,
+          "major_aa": "L",
+          "major_freq": 0.9645,
+          "entropy": 0.3209,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0139,
+            "cdr3_len_vs_is_positive": -0.0156,
+            "cdr3_charge_vs_is_positive": -0.0029,
+            "cdr3_charge_vs_is_negative": 0.0001,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0091
+          }
+        }
+      ]
+    },
+    "Y_C4": {
+      "family": "Y_C4",
+      "n_sequences": 221435,
+      "positions": [
+        {
+          "position_num": 42,
+          "n_obs": 221435,
+          "n_obs_total": 221435,
+          "gap_rate": 0.0,
+          "major_aa": "Y",
+          "major_freq": 1.0,
+          "entropy": 0.0,
+          "correlations": {}
+        },
+        {
+          "position_num": 49,
+          "n_obs": 221073,
+          "n_obs_total": 221435,
+          "gap_rate": 0.0016,
+          "major_aa": "E",
+          "major_freq": 0.6283,
+          "entropy": 1.8858,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0771,
+            "cdr3_len_vs_is_positive": 0.0134,
+            "cdr3_charge_vs_is_positive": -0.0048,
+            "cdr3_charge_vs_is_negative": -0.032,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0952
+          }
+        },
+        {
+          "position_num": 50,
+          "n_obs": 221156,
+          "n_obs_total": 221435,
+          "gap_rate": 0.0013,
+          "major_aa": "R",
+          "major_freq": 0.6985,
+          "entropy": 1.1183,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0496,
+            "cdr3_len_vs_is_positive": 0.0508,
+            "cdr3_charge_vs_is_positive": -0.0735,
+            "cdr3_charge_vs_is_negative": 0.0077,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0807
+          }
+        },
+        {
+          "position_num": 52,
+          "n_obs": 221257,
+          "n_obs_total": 221435,
+          "gap_rate": 0.0008,
+          "major_aa": "L",
+          "major_freq": 0.4153,
+          "entropy": 2.2784,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.1787,
+            "cdr3_len_vs_is_positive": 0.0003,
+            "cdr3_charge_vs_is_positive": 0.0241,
+            "cdr3_charge_vs_is_negative": -0.0261,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0381
+          }
+        },
+        {
+          "position_num": 66,
+          "n_obs": 221267,
+          "n_obs_total": 221435,
+          "gap_rate": 0.0008,
+          "major_aa": "Y",
+          "major_freq": 0.2629,
+          "entropy": 3.3342,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0137,
+            "cdr3_len_vs_is_positive": 0.0148,
+            "cdr3_charge_vs_is_positive": 0.0325,
+            "cdr3_charge_vs_is_negative": -0.0311,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0156
+          }
+        },
+        {
+          "position_num": 67,
+          "n_obs": 221315,
+          "n_obs_total": 221435,
+          "gap_rate": 0.0005,
+          "major_aa": "Y",
+          "major_freq": 0.9278,
+          "entropy": 0.6156,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0224,
+            "cdr3_len_vs_is_positive": 0.0111,
+            "cdr3_charge_vs_is_positive": 0.0004,
+            "cdr3_charge_vs_is_negative": -0.0533,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0468
+          }
+        },
+        {
+          "position_num": 68,
+          "n_obs": 221398,
+          "n_obs_total": 221435,
+          "gap_rate": 0.0002,
+          "major_aa": "A",
+          "major_freq": 0.6757,
+          "entropy": 2.0055,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0335,
+            "cdr3_len_vs_is_positive": 0.0341,
+            "cdr3_charge_vs_is_positive": 0.0045,
+            "cdr3_charge_vs_is_negative": 0.0088,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0503
+          }
+        },
+        {
+          "position_num": 69,
+          "n_obs": 221400,
+          "n_obs_total": 221435,
+          "gap_rate": 0.0002,
+          "major_aa": "D",
+          "major_freq": 0.7514,
+          "entropy": 1.522,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0295,
+            "cdr3_len_vs_is_positive": 0.0037,
+            "cdr3_charge_vs_is_positive": -0.0073,
+            "cdr3_charge_vs_is_negative": -0.1121,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0317
+          }
+        },
+        {
+          "position_num": 71,
+          "n_obs": 221401,
+          "n_obs_total": 221435,
+          "gap_rate": 0.0002,
+          "major_aa": "V",
+          "major_freq": 0.9187,
+          "entropy": 0.6148,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0152,
+            "cdr3_len_vs_is_positive": 0.0033,
+            "cdr3_charge_vs_is_positive": 0.0058,
+            "cdr3_charge_vs_is_negative": -0.0055,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0118
+          }
+        },
+        {
+          "position_num": 76,
+          "n_obs": 221431,
+          "n_obs_total": 221435,
+          "gap_rate": 0.0,
+          "major_aa": "F",
+          "major_freq": 0.9614,
+          "entropy": 0.3436,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0059,
+            "cdr3_len_vs_is_positive": -0.0002,
+            "cdr3_charge_vs_is_positive": 0.0006,
+            "cdr3_charge_vs_is_negative": -0.0013,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0037
+          }
+        },
+        {
+          "position_num": 78,
+          "n_obs": 221429,
+          "n_obs_total": 221435,
+          "gap_rate": 0.0,
+          "major_aa": "I",
+          "major_freq": 0.855,
+          "entropy": 0.9737,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0034,
+            "cdr3_len_vs_is_positive": -0.0035,
+            "cdr3_charge_vs_is_positive": -0.0009,
+            "cdr3_charge_vs_is_negative": 0.002,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0122
+          }
+        },
+        {
+          "position_num": 82,
+          "n_obs": 220668,
+          "n_obs_total": 221435,
+          "gap_rate": 0.0035,
+          "major_aa": "N",
+          "major_freq": 0.6803,
+          "entropy": 1.8699,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": -0.0121,
+            "cdr3_len_vs_is_positive": 0.0047,
+            "cdr3_charge_vs_is_positive": 0.032,
+            "cdr3_charge_vs_is_negative": 0.0174,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0721
+          }
+        },
+        {
+          "position_num": 87,
+          "n_obs": 221301,
+          "n_obs_total": 221435,
+          "gap_rate": 0.0006,
+          "major_aa": "V",
+          "major_freq": 0.6211,
+          "entropy": 1.737,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.017,
+            "cdr3_len_vs_is_positive": 0.0057,
+            "cdr3_charge_vs_is_positive": 0.0067,
+            "cdr3_charge_vs_is_negative": -0.0051,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0132
+          }
+        },
+        {
+          "position_num": 89,
+          "n_obs": 221422,
+          "n_obs_total": 221435,
+          "gap_rate": 0.0001,
+          "major_aa": "L",
+          "major_freq": 0.9803,
+          "entropy": 0.1904,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.009,
+            "cdr3_len_vs_is_positive": -0.0111,
+            "cdr3_charge_vs_is_positive": -0.0086,
+            "cdr3_charge_vs_is_negative": 0.0005,
+            "cdr3_hydro_vs_is_hydrophobic": -0.0032
+          }
+        },
+        {
+          "position_num": 91,
+          "n_obs": 221426,
+          "n_obs_total": 221435,
+          "gap_rate": 0.0,
+          "major_aa": "M",
+          "major_freq": 0.9438,
+          "entropy": 0.4391,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.0136,
+            "cdr3_len_vs_is_positive": -0.0207,
+            "cdr3_charge_vs_is_positive": -0.0085,
+            "cdr3_charge_vs_is_negative": -0.0014,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0065
+          }
+        },
+        {
+          "position_num": 94,
+          "n_obs": 221433,
+          "n_obs_total": 221435,
+          "gap_rate": 0.0,
+          "major_aa": "L",
+          "major_freq": 0.9686,
+          "entropy": 0.2851,
+          "correlations": {
+            "cdr3_len_vs_is_hydrophobic": 0.022,
+            "cdr3_len_vs_is_positive": -0.0297,
+            "cdr3_charge_vs_is_positive": -0.01,
+            "cdr3_charge_vs_is_negative": 0.0007,
+            "cdr3_hydro_vs_is_hydrophobic": 0.0047
+          }
+        }
+      ]
+    }
+  }
+}

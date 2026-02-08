@@ -1,0 +1,330 @@
+{
+  "family=F_C4": {
+    "IMGT42": {
+      "aa": "F",
+      "count": 11146,
+      "frequency": 1.0
+    },
+    "IMGT49": {
+      "aa": "E",
+      "count": 11117,
+      "frequency": 0.997
+    },
+    "IMGT50": {
+      "aa": "R",
+      "count": 11146,
+      "frequency": 1.0
+    },
+    "IMGT52": {
+      "aa": "G",
+      "count": 8902,
+      "frequency": 0.799
+    },
+    "IMGT66": {
+      "aa": "Y",
+      "count": 4256,
+      "frequency": 0.382
+    },
+    "IMGT67": {
+      "aa": "Y",
+      "count": 9686,
+      "frequency": 0.869
+    },
+    "IMGT68": {
+      "aa": "A",
+      "count": 5483,
+      "frequency": 0.492
+    },
+    "IMGT69": {
+      "aa": "D",
+      "count": 6770,
+      "frequency": 0.607
+    },
+    "IMGT71": {
+      "aa": "V",
+      "count": 6536,
+      "frequency": 0.586
+    },
+    "IMGT76": {
+      "aa": "T",
+      "count": 4779,
+      "frequency": 0.429
+    },
+    "IMGT78": {
+      "aa": "S",
+      "count": 6401,
+      "frequency": 0.574
+    },
+    "IMGT82": {
+      "aa": "A",
+      "count": 5033,
+      "frequency": 0.452
+    },
+    "IMGT87": {
+      "aa": "V",
+      "count": 9131,
+      "frequency": 0.819
+    },
+    "IMGT89": {
+      "aa": "L",
+      "count": 10409,
+      "frequency": 0.934
+    },
+    "IMGT91": {
+      "aa": "M",
+      "count": 9023,
+      "frequency": 0.81
+    },
+    "IMGT94": {
+      "aa": "L",
+      "count": 10170,
+      "frequency": 0.912
+    }
+  },
+  "hallmarks=FERG": {
+    "IMGT42": {
+      "aa": "F",
+      "count": 15821,
+      "frequency": 1.0
+    },
+    "IMGT49": {
+      "aa": "E",
+      "count": 15821,
+      "frequency": 1.0
+    },
+    "IMGT50": {
+      "aa": "R",
+      "count": 15821,
+      "frequency": 1.0
+    },
+    "IMGT52": {
+      "aa": "G",
+      "count": 15821,
+      "frequency": 1.0
+    },
+    "IMGT66": {
+      "aa": "Y",
+      "count": 8372,
+      "frequency": 0.529
+    },
+    "IMGT67": {
+      "aa": "Y",
+      "count": 14658,
+      "frequency": 0.926
+    },
+    "IMGT68": {
+      "aa": "A",
+      "count": 8243,
+      "frequency": 0.521
+    },
+    "IMGT69": {
+      "aa": "D",
+      "count": 11445,
+      "frequency": 0.723
+    },
+    "IMGT71": {
+      "aa": "V",
+      "count": 10996,
+      "frequency": 0.695
+    },
+    "IMGT76": {
+      "aa": "T",
+      "count": 8535,
+      "frequency": 0.539
+    },
+    "IMGT78": {
+      "aa": "S",
+      "count": 10349,
+      "frequency": 0.654
+    },
+    "IMGT82": {
+      "aa": "A",
+      "count": 9207,
+      "frequency": 0.582
+    },
+    "IMGT87": {
+      "aa": "V",
+      "count": 9877,
+      "frequency": 0.624
+    },
+    "IMGT89": {
+      "aa": "L",
+      "count": 11980,
+      "frequency": 0.757
+    },
+    "IMGT91": {
+      "aa": "M",
+      "count": 10287,
+      "frequency": 0.65
+    },
+    "IMGT94": {
+      "aa": "L",
+      "count": 11582,
+      "frequency": 0.732
+    }
+  },
+  "family=VH_like": {
+    "IMGT42": {
+      "aa": "V",
+      "count": 10725,
+      "frequency": 0.865
+    },
+    "IMGT49": {
+      "aa": "G",
+      "count": 11636,
+      "frequency": 0.938
+    },
+    "IMGT50": {
+      "aa": "L",
+      "count": 12399,
+      "frequency": 1.0
+    },
+    "IMGT52": {
+      "aa": "W",
+      "count": 11996,
+      "frequency": 0.967
+    },
+    "IMGT66": {
+      "aa": "Y",
+      "count": 10139,
+      "frequency": 0.818
+    },
+    "IMGT67": {
+      "aa": "Y",
+      "count": 12134,
+      "frequency": 0.979
+    },
+    "IMGT68": {
+      "aa": "A",
+      "count": 11440,
+      "frequency": 0.923
+    },
+    "IMGT69": {
+      "aa": "D",
+      "count": 11192,
+      "frequency": 0.903
+    },
+    "IMGT71": {
+      "aa": "V",
+      "count": 11321,
+      "frequency": 0.913
+    },
+    "IMGT76": {
+      "aa": "T",
+      "count": 11597,
+      "frequency": 0.935
+    },
+    "IMGT78": {
+      "aa": "S",
+      "count": 11660,
+      "frequency": 0.94
+    },
+    "IMGT82": {
+      "aa": "A",
+      "count": 11489,
+      "frequency": 0.927
+    },
+    "IMGT87": {
+      "aa": "Y",
+      "count": 11132,
+      "frequency": 0.898
+    },
+    "IMGT89": {
+      "aa": "Q",
+      "count": 11203,
+      "frequency": 0.904
+    },
+    "IMGT91": {
+      "aa": "N",
+      "count": 11107,
+      "frequency": 0.896
+    },
+    "IMGT94": {
+      "aa": "K",
+      "count": 11085,
+      "frequency": 0.894
+    }
+  },
+  "family=Classical_other": {
+    "IMGT42": {
+      "aa": "F",
+      "count": 8824,
+      "frequency": 0.866
+    },
+    "IMGT49": {
+      "aa": "E",
+      "count": 9243,
+      "frequency": 0.907
+    },
+    "IMGT50": {
+      "aa": "R",
+      "count": 10188,
+      "frequency": 1.0
+    },
+    "IMGT52": {
+      "aa": "G",
+      "count": 6625,
+      "frequency": 0.65
+    },
+    "IMGT66": {
+      "aa": "Y",
+      "count": 5535,
+      "frequency": 0.543
+    },
+    "IMGT67": {
+      "aa": "Y",
+      "count": 9449,
+      "frequency": 0.927
+    },
+    "IMGT68": {
+      "aa": "A",
+      "count": 5874,
+      "frequency": 0.577
+    },
+    "IMGT69": {
+      "aa": "D",
+      "count": 8052,
+      "frequency": 0.79
+    },
+    "IMGT71": {
+      "aa": "V",
+      "count": 7878,
+      "frequency": 0.773
+    },
+    "IMGT76": {
+      "aa": "T",
+      "count": 6935,
+      "frequency": 0.681
+    },
+    "IMGT78": {
+      "aa": "S",
+      "count": 7670,
+      "frequency": 0.753
+    },
+    "IMGT82": {
+      "aa": "A",
+      "count": 6949,
+      "frequency": 0.682
+    },
+    "IMGT87": {
+      "aa": "Y",
+      "count": 4498,
+      "frequency": 0.441
+    },
+    "IMGT89": {
+      "aa": "L",
+      "count": 5535,
+      "frequency": 0.543
+    },
+    "IMGT91": {
+      "aa": "M",
+      "count": 5017,
+      "frequency": 0.492
+    },
+    "IMGT94": {
+      "aa": "L",
+      "count": 5359,
+      "frequency": 0.526
+    }
+  }
+}
