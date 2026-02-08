@@ -1,18 +1,15 @@
-# Documentation
+# docs/
 
-## Files included:
+Project documentation.
 
-- `VERSION_HISTORY.md` - Detailed changelog for all 45 versions
-- `*.png` - Visualizations (timeline, LOC growth, architecture, etc.)
+## Files
 
-## Add this file:
-
-```
-VHH_DESIGNER_ULTIMATE_GUIDE.md   ← Complete technical reference
-```
-
-## From your KA-Search directory:
-
-```bash
-cp ~/KA-Search/VHH_DESIGNER_ULTIMATE_GUIDE.md ./
-```
+| File | What it is |
+|------|-----------|
+| `VHH_DESIGNER_ULTIMATE_GUIDE_V90.md` | Comprehensive guide to the VHH designer pipeline — architecture, usage, biology background |
+| `scripts_log.md` | Chronological log of script development and changes |
+| `REORGANIZATION_PROPOSAL.md` | Initial repo reorganization plan |
+| `CHANGELOG_epistasis_pipeline.md` | Epistasis pipeline version history |
+| `CHANGELOG_full_analysis.md` | Full analysis version history |
+| `CHANGELOG_naturalness_analyzer.md` | Naturalness analyzer version history |
+| `CHANGELOG_npz_scanner.md` | NPZ scanner version history |
