@@ -92,34 +92,107 @@ Generated sequences are not intended for experimental use without *independent r
 
 ```
 vhh-designer/
-├── vhh_designer/           # Main design tool (v9.1 - 7,664 lines)
+│
+├── vhh_designer/                       # Main design tool (v9.1 - 7,664 lines)
 │   └── designer.py
 │
-├── database/               # NPZ scanning and shard annotation
+├── database/                           # NPZ scanning and shard annotation
 │   ├── npz_fullscan.py
 │   └── annotate_shards.py
 │
-├── analysis/               # Statistical analysis pipeline
+├── analysis/                           # Statistical analysis pipeline
 │   ├── epistasis_analyzer.py
 │   ├── compensation_rules.py
 │   └── naturalness_analyzer.py
 │
-├── visualization/          # MSA and alignment visualization
+├── visualization/                      # MSA and alignment visualization
 │   ├── msa_visualizer.py
 │   └── csv2msa.py
 │
-├── utilities/              # Helper scripts
+├── utilities/                          # Helper scripts
 │   ├── dna_translator.py
 │   ├── pull_cdrs.py
 │   └── paths.py
 │
-├── docs/                   # Documentation
-│   └── VHH_DESIGNER_ULTIMATE_GUIDE.md
+├── models/                             # TRAINED MODELS & RESULTS
+│   ├── epistasis/
+│   │   ├── current/
+│   │   │   ├── epistasis_v2_full.pkl       # Production model
+│   │   │   └── epistasis_v2_summary.json
+│   │   ├── checkpoints/
+│   │   │   ├── epistasis_v2_checkpoint_1_compensation.pkl
+│   │   │   ├── epistasis_v2_checkpoint_2_clusters.pkl
+│   │   │   ├── epistasis_v2_checkpoint_3_models.pkl
+│   │   │   └── epistasis_v2_checkpoint_4_rules.pkl
+│   │   └── legacy/
+│   │       ├── epistasis_overnight_full.pkl
+│   │       └── epistasis_overnight_checkpoints/
+│   │
+│   ├── correlations/
+│   │   ├── correlation_results.pkl
+│   │   └── correlation_summary.txt
+│   │
+│   └── pfr_cdr/
+│       └── pfr_cdr_models.pkl
 │
-└── archive/                # Key version milestones
-    ├── designer/           # v2, v5, v7.1, v7.12, v8.0, v8.9, v9.0
-    ├── scanner/            # v2, v5, v6
-    └── epistasis/          # v1, v2
+├── data/                               # INPUT DATA
+│   ├── raw/
+│   │   ├── sequences/                      # Input CSVs/FASTAs
+│   │   │   ├── 20251206_Mix_sequences.csv
+│   │   │   ├── 20251208_PPO2_185_seq.csv
+│   │   │   ├── 20251213_AVIDa_hIL6.csv
+│   │   │   └── M69.fasta
+│   │   ├── oas_paper/                      # OAS extracted data
+│   │   │   ├── Compressed/
+│   │   │   ├── INDI/
+│   │   │   └── SRR*/
+│   │   └── structures/                     # PDB files
+│   │       └── all_nano_structures/
+│   │
+│   ├── databases/                          # NPZ databases
+│   │   ├── production/
+│   │   │   └── VHH_db_unified_v2.npz       # Current production DB
+│   │   ├── shards/
+│   │   │   └── vhh_indi_ngs_*.npz
+│   │   └── legacy/
+│   │       ├── VHH_db_final.npz
+│   │       ├── VHH_db_unified.npz
+│   │       └── camel_vhh_clean_db.npz
+│   │
+│   └── external/                           # Downloaded/external data
+│       ├── OAS-aligned-paper-version-20230111.tar
+│       ├── PLAbDab_nano_VHH.csv.gz
+│       └── PLAbDab_nano_all.csv.gz
+│
+├── results/                            # OUTPUT RESULTS
+│   ├── analysis_runs/
+│   │   ├── 2025-12/
+│   │   │   ├── 20251206_Mix_naturalness_FINAL.xlsx
+│   │   │   ├── 20251213_AVIDa_hIL6_Results.xlsx
+│   │   │   └── 20251215_PPO2_Isotope_controls.xlsx
+│   │   └── 2025-11/
+│   │       └── (earlier results)
+│   ├── fullscan_runs/
+│   └── kasearch_runs/
+│
+├── docs/                               # Documentation
+│   ├── VHH_DESIGNER_ULTIMATE_GUIDE.md
+│   ├── setup.md
+│   ├── epistasis_methodology.md
+│   ├── naturalness_scoring.md
+│   └── database_schema.md
+│
+├── archive/                            # Key version milestones
+│   ├── designer/                           # v2, v5, v7.1, v7.12, v8.0, v8.9, v9.0
+│   ├── scanner/                            # v2, v5, v6
+│   ├── epistasis/                          # v1, v2
+│   ├── database_builders/
+│   ├── correlation_analysis/
+│   ├── one_off/
+│   └── visualizations/
+│
+└── legacy/                             # Safety backup
+    └── original_archive_YYYYMMDD/
 ```
 
 ## Quick Start
