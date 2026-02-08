@@ -35,7 +35,7 @@ Conventional antibodies are large (~150 kDa), multi-chain molecules that require
 
 ## The Problem
 
-Nanobodies occur naturally in camelid species (llamas, alpacas, camels) as part of heavy-chain-only antibodies (HCAbs) — antibodies that lack a light chain entirely. This is what makes them special: evolution has already solved the problem of creating stable, functional single-domain binders. The standard route to nanobody discovery involves immunizing a camelid, building a phage display library from its HCAb repertoire, and panning for binders — a process that yields nanobodies already optimized for solo stability.
+Nanobodies occur naturally in camelid species (llamas, alpacas, camels) as part of heavy-chain-only antibodies (HCAbs) — antibodies that lack a light chain entirely. **This is what makes them special: evolution has already solved the problem of creating stable, functional single-domain binders**. The standard route to nanobody discovery involves immunizing a camelid, building a phage display library from its HCAb repertoire, and panning for binders — a process that yields nanobodies already optimized for solo stability.
 
 But what if your best binder came from a conventional IgG campaign — a mouse hybridoma, a human phage library, or a clinical-stage antibody? **Converting a conventional VH into a nanobody format is a fundamentally harder problem, because that VH was never meant to work alone.** It evolved to pair with a light chain: the VL buries ~800 Å² of hydrophobic surface on the VH framework, and removing it exposes residues that cause aggregation, misfolding, and loss of function. Historically, VH→VHH conversion has been:
 
