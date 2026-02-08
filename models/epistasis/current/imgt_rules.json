@@ -1,0 +1,4817 @@
+[
+  {
+    "condition": "hallmarks=FERG",
+    "family": "Classical_other",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 542518,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "Classical_other",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 542518,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "Classical_other",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 542518,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "Classical_other",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 542518,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "Classical_other",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 542518,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "Classical_other",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 542518,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "Classical_other",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 542518,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "Classical_other",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 542518,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT66",
+    "suggested_aa": "N",
+    "support": 488527,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 488527,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 488527,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 488527,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 488527,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 488527,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 488527,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 488527,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT66",
+    "suggested_aa": "N",
+    "support": 314465,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 272888,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 272888,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 272888,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 272888,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 272888,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 272888,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 272888,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 272888,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 248328,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 248328,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 248328,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 248328,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 248328,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 248328,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 248328,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 248328,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RREV",
+    "family": "Non_classical",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 170782,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RREV",
+    "family": "Non_classical",
+    "position": "IMGT71",
+    "suggested_aa": "K",
+    "support": 170782,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RREV",
+    "family": "Non_classical",
+    "position": "IMGT76",
+    "suggested_aa": "I",
+    "support": 170782,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RREV",
+    "family": "Non_classical",
+    "position": "IMGT87",
+    "suggested_aa": "L",
+    "support": 170782,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RREV",
+    "family": "Non_classical",
+    "position": "IMGT89",
+    "suggested_aa": "M",
+    "support": 170782,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RREV",
+    "family": "Non_classical",
+    "position": "IMGT91",
+    "suggested_aa": "S",
+    "support": 170782,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RREV",
+    "family": "Non_classical",
+    "position": "IMGT94",
+    "suggested_aa": "P",
+    "support": 170782,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RREV",
+    "family": "Non_classical",
+    "position": "IMGT82",
+    "suggested_aa": "K",
+    "support": 170782,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT71",
+    "suggested_aa": "M",
+    "support": 66079,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT76",
+    "suggested_aa": "A",
+    "support": 61121,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT66",
+    "suggested_aa": "T",
+    "support": 61121,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT82",
+    "suggested_aa": "N",
+    "support": 61121,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT89",
+    "suggested_aa": "E",
+    "support": 61121,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERL",
+    "family": "Y_C2",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 56913,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERL",
+    "family": "Y_C2",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 56913,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERL",
+    "family": "Y_C2",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 56913,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERL",
+    "family": "Y_C2",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 56913,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERL",
+    "family": "Y_C2",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 56913,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERL",
+    "family": "Y_C2",
+    "position": "IMGT66",
+    "suggested_aa": "S",
+    "support": 56913,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERL",
+    "family": "Y_C2",
+    "position": "IMGT82",
+    "suggested_aa": "L",
+    "support": 56913,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERL",
+    "family": "Y_C2",
+    "position": "IMGT91",
+    "suggested_aa": "K",
+    "support": 56913,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT66",
+    "suggested_aa": "T",
+    "support": 56351,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT94",
+    "suggested_aa": "E",
+    "support": 56351,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RLEV",
+    "family": "Non_classical",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 55832,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RLEV",
+    "family": "Non_classical",
+    "position": "IMGT71",
+    "suggested_aa": "K",
+    "support": 55832,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RLEV",
+    "family": "Non_classical",
+    "position": "IMGT76",
+    "suggested_aa": "I",
+    "support": 55832,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RLEV",
+    "family": "Non_classical",
+    "position": "IMGT82",
+    "suggested_aa": "K",
+    "support": 55832,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RLEV",
+    "family": "Non_classical",
+    "position": "IMGT87",
+    "suggested_aa": "L",
+    "support": 55832,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RLEV",
+    "family": "Non_classical",
+    "position": "IMGT89",
+    "suggested_aa": "M",
+    "support": 55832,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RLEV",
+    "family": "Non_classical",
+    "position": "IMGT91",
+    "suggested_aa": "S",
+    "support": 55832,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RLEV",
+    "family": "Non_classical",
+    "position": "IMGT94",
+    "suggested_aa": "P",
+    "support": 55832,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT66",
+    "suggested_aa": "D",
+    "support": 52234,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT76",
+    "suggested_aa": "V",
+    "support": 48072,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT66",
+    "suggested_aa": "S",
+    "support": 44754,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT66",
+    "suggested_aa": "S",
+    "support": 43539,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RREV",
+    "family": "Non_classical",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 43435,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERL",
+    "family": "Y_C2",
+    "position": "IMGT66",
+    "suggested_aa": "N",
+    "support": 39862,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERL",
+    "family": "Y_C2",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 39862,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERL",
+    "family": "Y_C2",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 39862,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 39381,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RLEV",
+    "family": "Non_classical",
+    "position": "IMGT94",
+    "suggested_aa": "T",
+    "support": 37310,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RLEV",
+    "family": "Non_classical",
+    "position": "IMGT89",
+    "suggested_aa": "L",
+    "support": 37310,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT66",
+    "suggested_aa": "H",
+    "support": 35031,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT66",
+    "suggested_aa": "K",
+    "support": 34801,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGPW",
+    "family": "Non_classical",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 32071,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGPW",
+    "family": "Non_classical",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 32071,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGPW",
+    "family": "Non_classical",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 32071,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGPW",
+    "family": "Non_classical",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 32071,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGPW",
+    "family": "Non_classical",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 32071,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGPW",
+    "family": "Non_classical",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 32071,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGPW",
+    "family": "Non_classical",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 32071,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGPW",
+    "family": "Non_classical",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 32071,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FQRL",
+    "family": "F_C2",
+    "position": "IMGT66",
+    "suggested_aa": "N",
+    "support": 31867,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FQRL",
+    "family": "F_C2",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 31867,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FQRL",
+    "family": "F_C2",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 31867,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FQRL",
+    "family": "F_C2",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 31867,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FQRL",
+    "family": "F_C2",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 31867,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FQRL",
+    "family": "F_C2",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 31867,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FQRL",
+    "family": "F_C2",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 31867,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FQRL",
+    "family": "F_C2",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 31867,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RLEV",
+    "family": "Non_classical",
+    "position": "IMGT94",
+    "suggested_aa": "S",
+    "support": 31719,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERA",
+    "family": "F_C4",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 30144,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERA",
+    "family": "F_C4",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 30144,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERA",
+    "family": "F_C4",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 30144,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERA",
+    "family": "F_C4",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 30144,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERA",
+    "family": "F_C4",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 30144,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERA",
+    "family": "F_C4",
+    "position": "IMGT66",
+    "suggested_aa": "N",
+    "support": 30144,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERA",
+    "family": "F_C4",
+    "position": "IMGT91",
+    "suggested_aa": "D",
+    "support": 30144,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERA",
+    "family": "F_C4",
+    "position": "IMGT94",
+    "suggested_aa": "E",
+    "support": 30144,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT66",
+    "suggested_aa": "N",
+    "support": 29501,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT66",
+    "suggested_aa": "N",
+    "support": 28500,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "Classical_other",
+    "position": "IMGT91",
+    "suggested_aa": "D",
+    "support": 27826,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C2",
+    "position": "IMGT66",
+    "suggested_aa": "F",
+    "support": 27150,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C2",
+    "position": "IMGT91",
+    "suggested_aa": "S",
+    "support": 27150,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C2",
+    "position": "IMGT82",
+    "suggested_aa": "G",
+    "support": 27150,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT66",
+    "suggested_aa": "V",
+    "support": 24210,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT66",
+    "suggested_aa": "D",
+    "support": 23982,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT66",
+    "suggested_aa": "R",
+    "support": 23744,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT66",
+    "suggested_aa": "D",
+    "support": 22806,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT82",
+    "suggested_aa": "V",
+    "support": 21820,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT87",
+    "suggested_aa": "D",
+    "support": 21820,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT89",
+    "suggested_aa": "L",
+    "support": 21820,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FARG",
+    "family": "Non_classical",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 19960,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FARG",
+    "family": "Non_classical",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 19960,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FARG",
+    "family": "Non_classical",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 19960,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FARG",
+    "family": "Non_classical",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 19960,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FARG",
+    "family": "Non_classical",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 19960,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FARG",
+    "family": "Non_classical",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 19960,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FARG",
+    "family": "Non_classical",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 19960,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FARG",
+    "family": "Non_classical",
+    "position": "IMGT66",
+    "suggested_aa": "N",
+    "support": 19960,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERG",
+    "family": "Classical_other",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 19785,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERG",
+    "family": "Classical_other",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 19785,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERG",
+    "family": "Classical_other",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 19785,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERG",
+    "family": "Classical_other",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 19785,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERG",
+    "family": "Classical_other",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 19785,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERG",
+    "family": "Classical_other",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 19785,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERG",
+    "family": "Classical_other",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 19785,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERG",
+    "family": "Classical_other",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 19785,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT87",
+    "suggested_aa": "A",
+    "support": 19470,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT94",
+    "suggested_aa": "S",
+    "support": 19470,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT66",
+    "suggested_aa": "T",
+    "support": 18745,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT89",
+    "suggested_aa": "E",
+    "support": 18101,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT71",
+    "suggested_aa": "A",
+    "support": 18101,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERW",
+    "family": "Classical_other",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 17931,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERW",
+    "family": "Classical_other",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 17931,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERW",
+    "family": "Classical_other",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 17931,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERW",
+    "family": "Classical_other",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 17931,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERW",
+    "family": "Classical_other",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 17931,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERW",
+    "family": "Classical_other",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 17931,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERW",
+    "family": "Classical_other",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 17931,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERW",
+    "family": "Classical_other",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 17931,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VALW",
+    "family": "VH_like",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 17583,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VALW",
+    "family": "VH_like",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 17583,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VALW",
+    "family": "VH_like",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 17583,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VALW",
+    "family": "VH_like",
+    "position": "IMGT82",
+    "suggested_aa": "T",
+    "support": 17583,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VALW",
+    "family": "VH_like",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 17583,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VALW",
+    "family": "VH_like",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 17583,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VALW",
+    "family": "VH_like",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 17583,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VALW",
+    "family": "VH_like",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 17583,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT66",
+    "suggested_aa": "E",
+    "support": 17396,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT66",
+    "suggested_aa": "H",
+    "support": 16485,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERA",
+    "family": "F_C4",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 16363,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERA",
+    "family": "F_C4",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 16363,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERA",
+    "family": "F_C4",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 16363,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT66",
+    "suggested_aa": "S",
+    "support": 16307,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=AGLW",
+    "family": "VH_like",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 16096,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=AGLW",
+    "family": "VH_like",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 16096,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=AGLW",
+    "family": "VH_like",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 16096,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=AGLW",
+    "family": "VH_like",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 16096,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=AGLW",
+    "family": "VH_like",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 16096,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=AGLW",
+    "family": "VH_like",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 16096,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=AGLW",
+    "family": "VH_like",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 16096,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=AGLW",
+    "family": "VH_like",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 16096,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT66",
+    "suggested_aa": "S",
+    "support": 16066,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RREV",
+    "family": "Non_classical",
+    "position": "IMGT94",
+    "suggested_aa": "S",
+    "support": 15561,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT94",
+    "suggested_aa": "E",
+    "support": 15400,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FEPG",
+    "family": "Non_classical",
+    "position": "IMGT66",
+    "suggested_aa": "K",
+    "support": 14914,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FEPG",
+    "family": "Non_classical",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 14914,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FEPG",
+    "family": "Non_classical",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 14914,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FEPG",
+    "family": "Non_classical",
+    "position": "IMGT82",
+    "suggested_aa": "D",
+    "support": 14914,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FEPG",
+    "family": "Non_classical",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 14914,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FEPG",
+    "family": "Non_classical",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 14914,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FEPG",
+    "family": "Non_classical",
+    "position": "IMGT91",
+    "suggested_aa": "D",
+    "support": 14914,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FEPG",
+    "family": "Non_classical",
+    "position": "IMGT94",
+    "suggested_aa": "R",
+    "support": 14914,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FARG",
+    "family": "Non_classical",
+    "position": "IMGT66",
+    "suggested_aa": "T",
+    "support": 14699,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FARG",
+    "family": "Non_classical",
+    "position": "IMGT76",
+    "suggested_aa": "R",
+    "support": 14699,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FARG",
+    "family": "Non_classical",
+    "position": "IMGT82",
+    "suggested_aa": "V",
+    "support": 14699,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FARG",
+    "family": "Non_classical",
+    "position": "IMGT89",
+    "suggested_aa": "Y",
+    "support": 14699,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FARG",
+    "family": "Non_classical",
+    "position": "IMGT91",
+    "suggested_aa": "E",
+    "support": 14699,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FARG",
+    "family": "Non_classical",
+    "position": "IMGT94",
+    "suggested_aa": "E",
+    "support": 14699,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERL",
+    "family": "Y_C2",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 14574,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT66",
+    "suggested_aa": "I",
+    "support": 14399,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VQRL",
+    "family": "Non_classical",
+    "position": "IMGT66",
+    "suggested_aa": "N",
+    "support": 14342,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VQRL",
+    "family": "Non_classical",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 14342,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VQRL",
+    "family": "Non_classical",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 14342,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VQRL",
+    "family": "Non_classical",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 14342,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VQRL",
+    "family": "Non_classical",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 14342,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VQRL",
+    "family": "Non_classical",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 14342,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VQRL",
+    "family": "Non_classical",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 14342,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VQRL",
+    "family": "Non_classical",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 14342,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FGRG",
+    "family": "Non_classical",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 14277,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FGRG",
+    "family": "Non_classical",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 14277,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FGRG",
+    "family": "Non_classical",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 14277,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FGRG",
+    "family": "Non_classical",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 14277,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FGRG",
+    "family": "Non_classical",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 14277,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FGRG",
+    "family": "Non_classical",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 14277,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FGRG",
+    "family": "Non_classical",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 14277,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FGRG",
+    "family": "Non_classical",
+    "position": "IMGT66",
+    "suggested_aa": "N",
+    "support": 14277,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT82",
+    "suggested_aa": "E",
+    "support": 14199,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT94",
+    "suggested_aa": "Y",
+    "support": 14199,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERL",
+    "family": "F_C2",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 14112,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERL",
+    "family": "F_C2",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 14112,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERL",
+    "family": "F_C2",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 14112,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERL",
+    "family": "F_C2",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 14112,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERL",
+    "family": "F_C2",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 14112,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERL",
+    "family": "F_C2",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 14112,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERL",
+    "family": "F_C2",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 14112,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERL",
+    "family": "F_C2",
+    "position": "IMGT66",
+    "suggested_aa": "N",
+    "support": 14112,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT91",
+    "suggested_aa": "D",
+    "support": 14006,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERE",
+    "family": "F_C4",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 13853,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERE",
+    "family": "F_C4",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 13853,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERE",
+    "family": "F_C4",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 13853,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERE",
+    "family": "F_C4",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 13853,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERE",
+    "family": "F_C4",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 13853,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERE",
+    "family": "F_C4",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 13853,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERE",
+    "family": "F_C4",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 13853,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERE",
+    "family": "F_C4",
+    "position": "IMGT66",
+    "suggested_aa": "N",
+    "support": 13853,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT66",
+    "suggested_aa": "R",
+    "support": 13618,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT66",
+    "suggested_aa": "T",
+    "support": 13496,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RREI",
+    "family": "Non_classical",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 13303,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RREI",
+    "family": "Non_classical",
+    "position": "IMGT71",
+    "suggested_aa": "K",
+    "support": 13303,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RREI",
+    "family": "Non_classical",
+    "position": "IMGT76",
+    "suggested_aa": "I",
+    "support": 13303,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RREI",
+    "family": "Non_classical",
+    "position": "IMGT82",
+    "suggested_aa": "K",
+    "support": 13303,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RREI",
+    "family": "Non_classical",
+    "position": "IMGT87",
+    "suggested_aa": "L",
+    "support": 13303,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RREI",
+    "family": "Non_classical",
+    "position": "IMGT89",
+    "suggested_aa": "M",
+    "support": 13303,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RREI",
+    "family": "Non_classical",
+    "position": "IMGT91",
+    "suggested_aa": "S",
+    "support": 13303,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RREI",
+    "family": "Non_classical",
+    "position": "IMGT94",
+    "suggested_aa": "P",
+    "support": 13303,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VERG",
+    "family": "Non_classical",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 13102,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VERG",
+    "family": "Non_classical",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 13102,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VERG",
+    "family": "Non_classical",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 13102,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VERG",
+    "family": "Non_classical",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 13102,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VERG",
+    "family": "Non_classical",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 13102,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VERG",
+    "family": "Non_classical",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 13102,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VERG",
+    "family": "Non_classical",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 13102,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VERG",
+    "family": "Non_classical",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 13102,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT66",
+    "suggested_aa": "D",
+    "support": 12883,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT91",
+    "suggested_aa": "T",
+    "support": 12854,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERL",
+    "family": "F_C2",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 12853,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT91",
+    "suggested_aa": "D",
+    "support": 12836,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FGRG",
+    "family": "Non_classical",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 12552,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT66",
+    "suggested_aa": "A",
+    "support": 12492,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RREV",
+    "family": "Non_classical",
+    "position": "IMGT94",
+    "suggested_aa": "T",
+    "support": 12372,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT82",
+    "suggested_aa": "T",
+    "support": 12272,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RREV",
+    "family": "Non_classical",
+    "position": "IMGT89",
+    "suggested_aa": "L",
+    "support": 12104,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RREV",
+    "family": "Non_classical",
+    "position": "IMGT76",
+    "suggested_aa": "V",
+    "support": 12065,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERP",
+    "family": "F_C4",
+    "position": "IMGT66",
+    "suggested_aa": "E",
+    "support": 12061,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERP",
+    "family": "F_C4",
+    "position": "IMGT71",
+    "suggested_aa": "A",
+    "support": 12061,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERP",
+    "family": "F_C4",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 12061,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERP",
+    "family": "F_C4",
+    "position": "IMGT82",
+    "suggested_aa": "T",
+    "support": 12061,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERP",
+    "family": "F_C4",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 12061,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERP",
+    "family": "F_C4",
+    "position": "IMGT89",
+    "suggested_aa": "R",
+    "support": 12061,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERP",
+    "family": "F_C4",
+    "position": "IMGT91",
+    "suggested_aa": "D",
+    "support": 12061,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERP",
+    "family": "F_C4",
+    "position": "IMGT94",
+    "suggested_aa": "F",
+    "support": 12061,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FGLW",
+    "family": "VH_like",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 11553,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FGLW",
+    "family": "VH_like",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 11553,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FGLW",
+    "family": "VH_like",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 11553,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FGLW",
+    "family": "VH_like",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 11553,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FGLW",
+    "family": "VH_like",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 11553,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FGLW",
+    "family": "VH_like",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 11553,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FGLW",
+    "family": "VH_like",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 11553,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FGLW",
+    "family": "VH_like",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 11553,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT82",
+    "suggested_aa": "S",
+    "support": 11398,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT87",
+    "suggested_aa": "T",
+    "support": 11398,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT94",
+    "suggested_aa": "E",
+    "support": 11080,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT66",
+    "suggested_aa": "H",
+    "support": 11065,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT66",
+    "suggested_aa": "F",
+    "support": 11030,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RREV",
+    "family": "Non_classical",
+    "position": "IMGT91",
+    "suggested_aa": "D",
+    "support": 11010,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT66",
+    "suggested_aa": "K",
+    "support": 11005,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT66",
+    "suggested_aa": "W",
+    "support": 10908,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RCEV",
+    "family": "Non_classical",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 10902,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RCEV",
+    "family": "Non_classical",
+    "position": "IMGT71",
+    "suggested_aa": "K",
+    "support": 10902,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RCEV",
+    "family": "Non_classical",
+    "position": "IMGT76",
+    "suggested_aa": "I",
+    "support": 10902,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RCEV",
+    "family": "Non_classical",
+    "position": "IMGT82",
+    "suggested_aa": "K",
+    "support": 10902,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RCEV",
+    "family": "Non_classical",
+    "position": "IMGT87",
+    "suggested_aa": "L",
+    "support": 10902,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RCEV",
+    "family": "Non_classical",
+    "position": "IMGT89",
+    "suggested_aa": "M",
+    "support": 10902,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RCEV",
+    "family": "Non_classical",
+    "position": "IMGT91",
+    "suggested_aa": "S",
+    "support": 10902,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RCEV",
+    "family": "Non_classical",
+    "position": "IMGT94",
+    "suggested_aa": "P",
+    "support": 10902,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RREV",
+    "family": "Non_classical",
+    "position": "IMGT82",
+    "suggested_aa": "E",
+    "support": 10893,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT94",
+    "suggested_aa": "N",
+    "support": 10808,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT91",
+    "suggested_aa": "D",
+    "support": 10800,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRF",
+    "family": "Y_C2",
+    "position": "IMGT66",
+    "suggested_aa": "N",
+    "support": 10259,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRF",
+    "family": "Y_C2",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 10259,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRF",
+    "family": "Y_C2",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 10259,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRF",
+    "family": "Y_C2",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 10259,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRF",
+    "family": "Y_C2",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 10259,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRF",
+    "family": "Y_C2",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 10259,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRF",
+    "family": "Y_C2",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 10259,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRF",
+    "family": "Y_C2",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 10259,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERR",
+    "family": "F_C4",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 10158,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERR",
+    "family": "F_C4",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 10158,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERR",
+    "family": "F_C4",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 10158,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERR",
+    "family": "F_C4",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 10158,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERR",
+    "family": "F_C4",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 10158,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERR",
+    "family": "F_C4",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 10158,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERR",
+    "family": "F_C4",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 10158,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERR",
+    "family": "F_C4",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 10158,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=----",
+    "family": "Non_classical",
+    "position": "IMGT66",
+    "suggested_aa": "n",
+    "support": 9825,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=----",
+    "family": "Non_classical",
+    "position": "IMGT71",
+    "suggested_aa": "-",
+    "support": 9825,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=----",
+    "family": "Non_classical",
+    "position": "IMGT76",
+    "suggested_aa": "-",
+    "support": 9825,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=----",
+    "family": "Non_classical",
+    "position": "IMGT82",
+    "suggested_aa": "-",
+    "support": 9825,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=----",
+    "family": "Non_classical",
+    "position": "IMGT87",
+    "suggested_aa": "-",
+    "support": 9825,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=----",
+    "family": "Non_classical",
+    "position": "IMGT89",
+    "suggested_aa": "-",
+    "support": 9825,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=----",
+    "family": "Non_classical",
+    "position": "IMGT91",
+    "suggested_aa": "-",
+    "support": 9825,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=----",
+    "family": "Non_classical",
+    "position": "IMGT94",
+    "suggested_aa": "-",
+    "support": 9825,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT76",
+    "suggested_aa": "A",
+    "support": 9808,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERR",
+    "family": "F_C4",
+    "position": "IMGT66",
+    "suggested_aa": "N",
+    "support": 9778,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT94",
+    "suggested_aa": "Q",
+    "support": 9768,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RREV",
+    "family": "Non_classical",
+    "position": "IMGT82",
+    "suggested_aa": "R",
+    "support": 9572,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FARG",
+    "family": "Non_classical",
+    "position": "IMGT89",
+    "suggested_aa": "E",
+    "support": 9458,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERF",
+    "family": "Y_C2",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 9377,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERF",
+    "family": "Y_C2",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 9377,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERF",
+    "family": "Y_C2",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 9377,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERF",
+    "family": "Y_C2",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 9377,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERF",
+    "family": "Y_C2",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 9377,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERF",
+    "family": "Y_C2",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 9377,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERF",
+    "family": "Y_C2",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 9377,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERF",
+    "family": "Y_C2",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 9377,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT87",
+    "suggested_aa": "F",
+    "support": 9323,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT66",
+    "suggested_aa": "R",
+    "support": 9241,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RREV",
+    "family": "Non_classical",
+    "position": "IMGT82",
+    "suggested_aa": "N",
+    "support": 9196,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT87",
+    "suggested_aa": "F",
+    "support": 9162,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERE",
+    "family": "F_C4",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 9056,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=HQRL",
+    "family": "Non_classical",
+    "position": "IMGT66",
+    "suggested_aa": "N",
+    "support": 8975,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=HQRL",
+    "family": "Non_classical",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 8975,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=HQRL",
+    "family": "Non_classical",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 8975,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=HQRL",
+    "family": "Non_classical",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 8975,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=HQRL",
+    "family": "Non_classical",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 8975,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=HQRL",
+    "family": "Non_classical",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 8975,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=HQRL",
+    "family": "Non_classical",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 8975,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=HQRL",
+    "family": "Non_classical",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 8975,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT66",
+    "suggested_aa": "V",
+    "support": 8905,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "Classical_other",
+    "position": "IMGT66",
+    "suggested_aa": "W",
+    "support": 8833,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "Classical_other",
+    "position": "IMGT94",
+    "suggested_aa": "R",
+    "support": 8685,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RREV",
+    "family": "Non_classical",
+    "position": "IMGT71",
+    "suggested_aa": "E",
+    "support": 8684,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT66",
+    "suggested_aa": "F",
+    "support": 8662,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "Classical_other",
+    "position": "IMGT76",
+    "suggested_aa": "A",
+    "support": 8601,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT82",
+    "suggested_aa": "T",
+    "support": 8544,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YGLW",
+    "family": "VH_like",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 8539,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YGLW",
+    "family": "VH_like",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 8539,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YGLW",
+    "family": "VH_like",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 8539,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YGLW",
+    "family": "VH_like",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 8539,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YGLW",
+    "family": "VH_like",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 8539,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YGLW",
+    "family": "VH_like",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 8539,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YGLW",
+    "family": "VH_like",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 8539,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YGLW",
+    "family": "VH_like",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 8539,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGPW",
+    "family": "Non_classical",
+    "position": "IMGT66",
+    "suggested_aa": "G",
+    "support": 8425,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT91",
+    "suggested_aa": "S",
+    "support": 8250,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGPW",
+    "family": "Non_classical",
+    "position": "IMGT66",
+    "suggested_aa": "R",
+    "support": 8102,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT82",
+    "suggested_aa": "D",
+    "support": 8095,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERW",
+    "family": "Y_C4",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 7973,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERW",
+    "family": "Y_C4",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 7973,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERW",
+    "family": "Y_C4",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 7973,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERW",
+    "family": "Y_C4",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 7973,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERW",
+    "family": "Y_C4",
+    "position": "IMGT66",
+    "suggested_aa": "D",
+    "support": 7973,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERW",
+    "family": "Y_C4",
+    "position": "IMGT71",
+    "suggested_aa": "D",
+    "support": 7973,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERW",
+    "family": "Y_C4",
+    "position": "IMGT91",
+    "suggested_aa": "H",
+    "support": 7973,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERW",
+    "family": "Y_C4",
+    "position": "IMGT94",
+    "suggested_aa": "R",
+    "support": 7973,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERV",
+    "family": "F_C2",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 7882,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERV",
+    "family": "F_C2",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 7882,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERV",
+    "family": "F_C2",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 7882,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERV",
+    "family": "F_C2",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 7882,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERV",
+    "family": "F_C2",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 7882,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERV",
+    "family": "F_C2",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 7882,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERV",
+    "family": "F_C2",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 7882,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERV",
+    "family": "F_C2",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 7882,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERW",
+    "family": "Y_C2",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 7879,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERW",
+    "family": "Y_C2",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 7879,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERW",
+    "family": "Y_C2",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 7879,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERW",
+    "family": "Y_C2",
+    "position": "IMGT66",
+    "suggested_aa": "E",
+    "support": 7879,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FGKE",
+    "family": "Non_classical",
+    "position": "IMGT66",
+    "suggested_aa": "H",
+    "support": 7796,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FGKE",
+    "family": "Non_classical",
+    "position": "IMGT71",
+    "suggested_aa": "L",
+    "support": 7796,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FGKE",
+    "family": "Non_classical",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 7796,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FGKE",
+    "family": "Non_classical",
+    "position": "IMGT82",
+    "suggested_aa": "L",
+    "support": 7796,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FGKE",
+    "family": "Non_classical",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 7796,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FGKE",
+    "family": "Non_classical",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 7796,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FGKE",
+    "family": "Non_classical",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 7796,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FGKE",
+    "family": "Non_classical",
+    "position": "IMGT94",
+    "suggested_aa": "E",
+    "support": 7796,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERE",
+    "family": "F_C4",
+    "position": "IMGT66",
+    "suggested_aa": "D",
+    "support": 7696,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERE",
+    "family": "F_C4",
+    "position": "IMGT71",
+    "suggested_aa": "A",
+    "support": 7696,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERE",
+    "family": "F_C4",
+    "position": "IMGT82",
+    "suggested_aa": "G",
+    "support": 7696,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERR",
+    "family": "F_C4",
+    "position": "IMGT66",
+    "suggested_aa": "D",
+    "support": 7555,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT66",
+    "suggested_aa": "G",
+    "support": 7529,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERI",
+    "family": "F_C2",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 7520,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERI",
+    "family": "F_C2",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 7520,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERI",
+    "family": "F_C2",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 7520,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERI",
+    "family": "F_C2",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 7520,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERI",
+    "family": "F_C2",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 7520,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERI",
+    "family": "F_C2",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 7520,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERI",
+    "family": "F_C2",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 7520,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERI",
+    "family": "F_C2",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 7520,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RREV",
+    "family": "Non_classical",
+    "position": "IMGT91",
+    "suggested_aa": "G",
+    "support": 7484,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT76",
+    "suggested_aa": "S",
+    "support": 7359,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRW",
+    "family": "Y_C2",
+    "position": "IMGT66",
+    "suggested_aa": "N",
+    "support": 7200,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRW",
+    "family": "Y_C2",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 7200,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRW",
+    "family": "Y_C2",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 7200,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRW",
+    "family": "Y_C2",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 7200,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRW",
+    "family": "Y_C2",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 7200,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRW",
+    "family": "Y_C2",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 7200,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRW",
+    "family": "Y_C2",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 7200,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRW",
+    "family": "Y_C2",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 7200,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT94",
+    "suggested_aa": "E",
+    "support": 7139,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT66",
+    "suggested_aa": "L",
+    "support": 7122,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT91",
+    "suggested_aa": "E",
+    "support": 7122,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT82",
+    "suggested_aa": "V",
+    "support": 6925,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RLEV",
+    "family": "Non_classical",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 6882,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FARG",
+    "family": "Non_classical",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 6860,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT94",
+    "suggested_aa": "N",
+    "support": 6836,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERW",
+    "family": "F_C4",
+    "position": "IMGT66",
+    "suggested_aa": "N",
+    "support": 6774,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT94",
+    "suggested_aa": "N",
+    "support": 6717,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERW",
+    "family": "F_C4",
+    "position": "IMGT66",
+    "suggested_aa": "A",
+    "support": 6675,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERW",
+    "family": "F_C4",
+    "position": "IMGT71",
+    "suggested_aa": "M",
+    "support": 6675,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERW",
+    "family": "F_C4",
+    "position": "IMGT87",
+    "suggested_aa": "F",
+    "support": 6675,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERW",
+    "family": "F_C4",
+    "position": "IMGT91",
+    "suggested_aa": "D",
+    "support": 6675,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT66",
+    "suggested_aa": "A",
+    "support": 6635,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT71",
+    "suggested_aa": "M",
+    "support": 6593,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT66",
+    "suggested_aa": "H",
+    "support": 6576,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT87",
+    "suggested_aa": "V",
+    "support": 6575,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RCEV",
+    "family": "Non_classical",
+    "position": "IMGT82",
+    "suggested_aa": "E",
+    "support": 6535,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RCEV",
+    "family": "Non_classical",
+    "position": "IMGT91",
+    "suggested_aa": "D",
+    "support": 6535,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT71",
+    "suggested_aa": "A",
+    "support": 6515,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT87",
+    "suggested_aa": "S",
+    "support": 6511,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT89",
+    "suggested_aa": "E",
+    "support": 6509,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT87",
+    "suggested_aa": "H",
+    "support": 6509,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT91",
+    "suggested_aa": "S",
+    "support": 6426,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FEHE",
+    "family": "Non_classical",
+    "position": "IMGT66",
+    "suggested_aa": "H",
+    "support": 6415,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FEHE",
+    "family": "Non_classical",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 6415,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FEHE",
+    "family": "Non_classical",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 6415,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FEHE",
+    "family": "Non_classical",
+    "position": "IMGT82",
+    "suggested_aa": "T",
+    "support": 6415,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FEHE",
+    "family": "Non_classical",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 6415,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FEHE",
+    "family": "Non_classical",
+    "position": "IMGT89",
+    "suggested_aa": "E",
+    "support": 6415,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FEHE",
+    "family": "Non_classical",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 6415,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FEHE",
+    "family": "Non_classical",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 6415,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT91",
+    "suggested_aa": "S",
+    "support": 6393,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT87",
+    "suggested_aa": "F",
+    "support": 6296,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT89",
+    "suggested_aa": "E",
+    "support": 6270,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT89",
+    "suggested_aa": "A",
+    "support": 6267,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT94",
+    "suggested_aa": "R",
+    "support": 6215,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT94",
+    "suggested_aa": "R",
+    "support": 6215,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=LERG",
+    "family": "Non_classical",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 6161,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=LERG",
+    "family": "Non_classical",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 6161,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=LERG",
+    "family": "Non_classical",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 6161,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=LERG",
+    "family": "Non_classical",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 6161,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=LERG",
+    "family": "Non_classical",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 6161,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=LERG",
+    "family": "Non_classical",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 6161,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=LERG",
+    "family": "Non_classical",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 6161,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=LERG",
+    "family": "Non_classical",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 6161,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERA",
+    "family": "F_C4",
+    "position": "IMGT82",
+    "suggested_aa": "V",
+    "support": 6157,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FQCM",
+    "family": "Non_classical",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 6110,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FQCM",
+    "family": "Non_classical",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 6110,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FQCM",
+    "family": "Non_classical",
+    "position": "IMGT76",
+    "suggested_aa": "A",
+    "support": 6110,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FQCM",
+    "family": "Non_classical",
+    "position": "IMGT82",
+    "suggested_aa": "G",
+    "support": 6110,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FQCM",
+    "family": "Non_classical",
+    "position": "IMGT87",
+    "suggested_aa": "R",
+    "support": 6110,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FQCM",
+    "family": "Non_classical",
+    "position": "IMGT89",
+    "suggested_aa": "R",
+    "support": 6110,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FQCM",
+    "family": "Non_classical",
+    "position": "IMGT91",
+    "suggested_aa": "S",
+    "support": 6110,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FQCM",
+    "family": "Non_classical",
+    "position": "IMGT94",
+    "suggested_aa": "S",
+    "support": 6110,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "Classical_other",
+    "position": "IMGT71",
+    "suggested_aa": "M",
+    "support": 6095,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FEHF",
+    "family": "Non_classical",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 6064,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FEHF",
+    "family": "Non_classical",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 6064,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FEHF",
+    "family": "Non_classical",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 6064,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FEHF",
+    "family": "Non_classical",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 6064,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FEHF",
+    "family": "Non_classical",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 6064,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FEHF",
+    "family": "Non_classical",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 6064,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FEHF",
+    "family": "Non_classical",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 6064,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FEHF",
+    "family": "Non_classical",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 6064,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT66",
+    "suggested_aa": "A",
+    "support": 6021,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT82",
+    "suggested_aa": "T",
+    "support": 5880,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "Classical_other",
+    "position": "IMGT87",
+    "suggested_aa": "S",
+    "support": 5863,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERW",
+    "family": "Y_C2",
+    "position": "IMGT66",
+    "suggested_aa": "H",
+    "support": 5834,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=RREV",
+    "family": "Non_classical",
+    "position": "IMGT71",
+    "suggested_aa": "R",
+    "support": 5799,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT87",
+    "suggested_aa": "S",
+    "support": 5781,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YAPE",
+    "family": "Non_classical",
+    "position": "IMGT66",
+    "suggested_aa": "W",
+    "support": 5728,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YAPE",
+    "family": "Non_classical",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 5728,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YAPE",
+    "family": "Non_classical",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 5728,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YAPE",
+    "family": "Non_classical",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 5728,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YAPE",
+    "family": "Non_classical",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 5728,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YAPE",
+    "family": "Non_classical",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 5728,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YAPE",
+    "family": "Non_classical",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 5728,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YAPE",
+    "family": "Non_classical",
+    "position": "IMGT94",
+    "suggested_aa": "Q",
+    "support": 5728,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERL",
+    "family": "Y_C2",
+    "position": "IMGT76",
+    "suggested_aa": "V",
+    "support": 5726,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERL",
+    "family": "Y_C2",
+    "position": "IMGT82",
+    "suggested_aa": "E",
+    "support": 5726,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT82",
+    "suggested_aa": "V",
+    "support": 5679,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT71",
+    "suggested_aa": "A",
+    "support": 5664,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VERG",
+    "family": "Non_classical",
+    "position": "IMGT66",
+    "suggested_aa": "N",
+    "support": 5663,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT94",
+    "suggested_aa": "H",
+    "support": 5641,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERW",
+    "family": "Y_C2",
+    "position": "IMGT66",
+    "suggested_aa": "Y",
+    "support": 5550,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERA",
+    "family": "F_C4",
+    "position": "IMGT66",
+    "suggested_aa": "E",
+    "support": 5547,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "Classical_other",
+    "position": "IMGT94",
+    "suggested_aa": "T",
+    "support": 5484,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT82",
+    "suggested_aa": "D",
+    "support": 5459,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERF",
+    "family": "F_C2",
+    "position": "IMGT91",
+    "suggested_aa": "T",
+    "support": 5439,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT66",
+    "suggested_aa": "R",
+    "support": 5438,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C2",
+    "position": "IMGT76",
+    "suggested_aa": "I",
+    "support": 5430,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT87",
+    "suggested_aa": "D",
+    "support": 5335,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT87",
+    "suggested_aa": "H",
+    "support": 5310,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT66",
+    "suggested_aa": "G",
+    "support": 5303,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT71",
+    "suggested_aa": "S",
+    "support": 5260,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT76",
+    "suggested_aa": "F",
+    "support": 5260,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT82",
+    "suggested_aa": "H",
+    "support": 5260,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERG",
+    "family": "F_C4",
+    "position": "IMGT89",
+    "suggested_aa": "R",
+    "support": 5260,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT94",
+    "suggested_aa": "N",
+    "support": 5258,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRV",
+    "family": "Y_C2",
+    "position": "IMGT66",
+    "suggested_aa": "N",
+    "support": 5239,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRV",
+    "family": "Y_C2",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 5239,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRV",
+    "family": "Y_C2",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 5239,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRV",
+    "family": "Y_C2",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 5239,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRV",
+    "family": "Y_C2",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 5239,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRV",
+    "family": "Y_C2",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 5239,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRV",
+    "family": "Y_C2",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 5239,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRV",
+    "family": "Y_C2",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 5239,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRL",
+    "family": "Y_C2",
+    "position": "IMGT82",
+    "suggested_aa": "G",
+    "support": 5202,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YERG",
+    "family": "Y_C4",
+    "position": "IMGT66",
+    "suggested_aa": "N",
+    "support": 5200,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FKRG",
+    "family": "Non_classical",
+    "position": "IMGT66",
+    "suggested_aa": "F",
+    "support": 5166,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FKRG",
+    "family": "Non_classical",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 5166,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FKRG",
+    "family": "Non_classical",
+    "position": "IMGT76",
+    "suggested_aa": "S",
+    "support": 5166,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FKRG",
+    "family": "Non_classical",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 5166,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FKRG",
+    "family": "Non_classical",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 5166,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FKRG",
+    "family": "Non_classical",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 5166,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FKRG",
+    "family": "Non_classical",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 5166,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FKRG",
+    "family": "Non_classical",
+    "position": "IMGT94",
+    "suggested_aa": "Q",
+    "support": 5166,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERL",
+    "family": "F_C2",
+    "position": "IMGT66",
+    "suggested_aa": "S",
+    "support": 5151,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERL",
+    "family": "F_C2",
+    "position": "IMGT82",
+    "suggested_aa": "L",
+    "support": 5151,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FERL",
+    "family": "F_C2",
+    "position": "IMGT91",
+    "suggested_aa": "K",
+    "support": 5151,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRM",
+    "family": "Y_C2",
+    "position": "IMGT66",
+    "suggested_aa": "N",
+    "support": 5145,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRM",
+    "family": "Y_C2",
+    "position": "IMGT71",
+    "suggested_aa": "V",
+    "support": 5145,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRM",
+    "family": "Y_C2",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 5145,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRM",
+    "family": "Y_C2",
+    "position": "IMGT82",
+    "suggested_aa": "A",
+    "support": 5145,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRM",
+    "family": "Y_C2",
+    "position": "IMGT87",
+    "suggested_aa": "Y",
+    "support": 5145,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRM",
+    "family": "Y_C2",
+    "position": "IMGT89",
+    "suggested_aa": "Q",
+    "support": 5145,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRM",
+    "family": "Y_C2",
+    "position": "IMGT91",
+    "suggested_aa": "N",
+    "support": 5145,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=YQRM",
+    "family": "Y_C2",
+    "position": "IMGT94",
+    "suggested_aa": "K",
+    "support": 5145,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FKRG",
+    "family": "Non_classical",
+    "position": "IMGT66",
+    "suggested_aa": "I",
+    "support": 5071,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FKRG",
+    "family": "Non_classical",
+    "position": "IMGT76",
+    "suggested_aa": "T",
+    "support": 5071,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=FKRG",
+    "family": "Non_classical",
+    "position": "IMGT82",
+    "suggested_aa": "D",
+    "support": 5071,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  },
+  {
+    "condition": "hallmarks=VGLW",
+    "family": "VH_like",
+    "position": "IMGT87",
+    "suggested_aa": "F",
+    "support": 5016,
+    "confidence": 0.95,
+    "source": "imgt_epistasis_v1"
+  }
+]

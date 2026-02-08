@@ -1,0 +1,74 @@
+# ============================================
+# VHH Designer - .gitignore
+# ============================================
+
+# ── Large binary files ────────────────────
+*.npz
+*.pkl
+*.pickle
+*.tar
+*.tar.gz
+*.gz
+*.zip
+*.dxf
+
+# ── Data directories (51GB) ──────────────
+data/databases/
+data/archive/
+data/raw/
+
+# ── Model weights (9.7GB PKLs) ───────────
+# Exclude binary models but keep JSON configs
+models/analysis/
+models/epistasis/legacy*/
+models/epistasis/checkpoints/
+models/epistasis/imgt_v1/
+models/epistasis/imgt_light_v1/
+
+# ── Results & run outputs ────────────────
+results/
+logs/
+
+# ── Legacy backup ────────────────────────
+legacy/
+
+# ── Archive data backups (large CSVs) ────
+archive/Backup/
+
+# ── Python ────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.so
+
+# ── Jupyter ───────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── IDE & OS ──────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
+
+# ── Temp & audit files ───────────────────
+tmp/
+temp/
+AUDIT_*.txt
+reorganize_v2.sh
+audit_kasearch.sh
+reorganize_and_commit.sh
+
+# ── Explicitly TRACK these ────────────────
+!models/epistasis/current/*.json
+!models/correlations/**/*.json
+!models/*.json
+!data/VHH_DATABASE_CONSOLIDATION_README.md
